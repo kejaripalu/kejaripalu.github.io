@@ -1,4 +1,4 @@
 ---
 title: "Beranda"
-description: "Portal resmi Kementerian Republik Indonesia"
+description: "Portal resmi Kejaksaan Negeri Palu"
 ---
