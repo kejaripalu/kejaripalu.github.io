@@ -1,0 +1,14 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo.log
+
+# Temporary files
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Optional: jika menggunakan tema sebagai sub-modul,
+# Anda mungkin ingin mengabaikan folder tema khusus
+# themes/

@@ -1,0 +1,41 @@
+baseURL = "https://kejari-palu.go.id/"
+languageCode = "id-id"
+title = "Kejaksaan Negeri Palu"
+# theme = "kejari-palu"
+
+[params]
+  description = "Portal resmi Kejaksaan Negeri Palu — melayani dengan sepenuh hati."
+  author = "Kejaksaan Negeri Palu"
+  tagline = "Melayani dengan Sepenuh Hati"
+  address = "Jl. Medan Merdeka Barat No.1, Jakarta Pusat 10110"
+  phone = "(021) 3500-000"
+  email = "info@kementerian.go.id"
+
+[menu]
+  [[menu.main]]
+    name = "Beranda"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Profil"
+    url = "/profil"
+    weight = 2
+  [[menu.main]]
+    name = "Berita"
+    url = "/berita"
+    weight = 3
+  [[menu.main]]
+    name = "Layanan"
+    url = "/layanan"
+    weight = 4
+  [[menu.main]]
+    name = "Kontak"
+    url = "/kontak"
+    weight = 5
+
+[taxonomies]
+  kategori = "kategori"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 9

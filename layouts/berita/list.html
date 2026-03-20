@@ -1,0 +1,139 @@
+{{/* layouts/berita/list.html */}}
+{{ define "main" }}
+
+<!-- Page Header -->
+<div class="gradient-hero py-20">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-2xl">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass text-gold-300 text-xs font-medium tracking-widest uppercase mb-6">
+        Informasi Terkini
+      </div>
+      <h1 class="font-serif text-white text-5xl font-bold mb-4">Berita & Pengumuman</h1>
+      <p class="text-navy-200 text-base leading-relaxed">Ikuti perkembangan terbaru kebijakan, program, dan kegiatan kementerian.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Filter Bar -->
+<div class="bg-white border-b border-gray-100 sticky top-20 z-30">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="flex gap-6 overflow-x-auto py-4 text-sm">
+      <button class="px-4 py-1.5 rounded-full bg-navy-900 text-white font-medium shrink-0 text-xs">Semua</button>
+      <button class="px-4 py-1.5 rounded-full border border-gray-200 text-navy-600 hover:border-navy-300 transition shrink-0 text-xs">Pengumuman</button>
+      <button class="px-4 py-1.5 rounded-full border border-gray-200 text-navy-600 hover:border-navy-300 transition shrink-0 text-xs">Kebijakan</button>
+      <button class="px-4 py-1.5 rounded-full border border-gray-200 text-navy-600 hover:border-navy-300 transition shrink-0 text-xs">Program</button>
+      <button class="px-4 py-1.5 rounded-full border border-gray-200 text-navy-600 hover:border-navy-300 transition shrink-0 text-xs">Kegiatan</button>
+      <button class="px-4 py-1.5 rounded-full border border-gray-200 text-navy-600 hover:border-navy-300 transition shrink-0 text-xs">Regulasi</button>
+    </div>
+  </div>
+</div>
+
+<!-- Content -->
+<section class="py-16 gradient-subtle">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="grid lg:grid-cols-3 gap-8">
+
+      <!-- Articles -->
+      <div class="lg:col-span-2 space-y-6">
+        {{ range .Pages }}
+        <article class="card-hover bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-card flex gap-0 group">
+          <div class="w-40 shrink-0 bg-gradient-to-br from-navy-100 to-navy-200 flex items-center justify-center">
+            <svg class="w-10 h-10 text-navy-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10l6 6v10a2 2 0 01-2 2z"/></svg>
+          </div>
+          <div class="p-6 flex-1">
+            <div class="flex items-center gap-3 mb-2">
+              <span class="px-2 py-0.5 rounded-full bg-gold-50 text-gold-700 text-xs font-medium">{{ .Params.kategori | default "Berita" }}</span>
+              <span class="text-navy-400 text-xs">{{ .Date.Format "02 January 2006" }}</span>
+            </div>
+            <h2 class="font-serif font-semibold text-navy-900 text-lg leading-snug group-hover:text-gold-700 transition mb-2">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h2>
+            <p class="text-navy-500 text-sm leading-relaxed line-clamp-2 mb-4">{{ .Summary }}</p>
+            <a href="{{ .RelPermalink }}" class="inline-flex items-center gap-1.5 text-gold-600 text-xs font-semibold hover:text-gold-700 transition">
+              Baca Selengkapnya
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+            </a>
+          </div>
+        </article>
+        {{ else }}
+        <!-- Placeholder when no posts yet -->
+        {{ range seq 6 }}
+        <article class="card-hover bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-card flex group">
+          <div class="w-40 shrink-0 bg-gradient-to-br from-navy-100 to-navy-200 flex items-center justify-center">
+            <svg class="w-10 h-10 text-navy-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10l6 6v10a2 2 0 01-2 2z"/></svg>
+          </div>
+          <div class="p-6 flex-1">
+            <div class="flex items-center gap-3 mb-2">
+              <span class="px-2 py-0.5 rounded-full bg-gold-50 text-gold-700 text-xs font-medium">Pengumuman</span>
+              <span class="text-navy-400 text-xs">15 Maret 2025</span>
+            </div>
+            <h2 class="font-serif font-semibold text-navy-900 text-lg leading-snug group-hover:text-gold-700 transition mb-2">
+              Judul Berita atau Pengumuman Resmi Kementerian
+            </h2>
+            <p class="text-navy-500 text-sm leading-relaxed line-clamp-2 mb-4">Ringkasan singkat mengenai isi berita atau pengumuman yang akan ditampilkan di halaman ini secara otomatis dari konten Hugo.</p>
+            <span class="inline-flex items-center gap-1.5 text-gold-600 text-xs font-semibold">
+              Baca Selengkapnya
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+            </span>
+          </div>
+        </article>
+        {{ end }}
+        {{ end }}
+
+        <!-- Pagination -->
+        {{ template "_internal/pagination.html" . }}
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="space-y-6">
+        <!-- Search -->
+        <div class="bg-white rounded-2xl p-5 border border-gray-100 shadow-card">
+          <h3 class="font-semibold text-navy-900 text-sm mb-3">Cari Berita</h3>
+          <div class="relative">
+            <input type="text" placeholder="Kata kunci..." class="w-full px-4 py-2.5 pr-10 text-sm rounded-lg border border-gray-200 focus:outline-none focus:border-navy-400 transition"/>
+            <svg class="w-4 h-4 text-navy-400 absolute right-3 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/></svg>
+          </div>
+        </div>
+
+        <!-- Kategori -->
+        <div class="bg-white rounded-2xl p-5 border border-gray-100 shadow-card">
+          <h3 class="font-semibold text-navy-900 text-sm mb-4">Kategori</h3>
+          <ul class="space-y-2">
+            <li><a href="#" class="flex justify-between text-sm text-navy-600 hover:text-gold-600 transition"><span>Pengumuman</span><span class="text-xs text-navy-400">24</span></a></li>
+            <li><a href="#" class="flex justify-between text-sm text-navy-600 hover:text-gold-600 transition"><span>Kebijakan</span><span class="text-xs text-navy-400">18</span></a></li>
+            <li><a href="#" class="flex justify-between text-sm text-navy-600 hover:text-gold-600 transition"><span>Program</span><span class="text-xs text-navy-400">12</span></a></li>
+            <li><a href="#" class="flex justify-between text-sm text-navy-600 hover:text-gold-600 transition"><span>Kegiatan</span><span class="text-xs text-navy-400">31</span></a></li>
+            <li><a href="#" class="flex justify-between text-sm text-navy-600 hover:text-gold-600 transition"><span>Regulasi</span><span class="text-xs text-navy-400">9</span></a></li>
+          </ul>
+        </div>
+
+        <!-- Recent -->
+        <div class="bg-white rounded-2xl p-5 border border-gray-100 shadow-card">
+          <h3 class="font-semibold text-navy-900 text-sm mb-4">Terbaru</h3>
+          <ul class="space-y-4">
+            <li class="flex gap-3 group">
+              <div class="w-14 h-14 rounded-lg bg-gold-50 flex items-center justify-center shrink-0">
+                <svg class="w-6 h-6 text-gold-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+              </div>
+              <div>
+                <a href="#" class="text-xs font-semibold text-navy-900 group-hover:text-gold-700 transition leading-snug">Penerimaan CPNS Formasi 2025</a>
+                <div class="text-xs text-navy-400 mt-0.5">12 Maret 2025</div>
+              </div>
+            </li>
+            <li class="flex gap-3 group">
+              <div class="w-14 h-14 rounded-lg bg-navy-50 flex items-center justify-center shrink-0">
+                <svg class="w-6 h-6 text-navy-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+              </div>
+              <div>
+                <a href="#" class="text-xs font-semibold text-navy-900 group-hover:text-gold-700 transition leading-snug">Regulasi Baru Tata Kelola Data</a>
+                <div class="text-xs text-navy-400 mt-0.5">08 Maret 2025</div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+    </div>
+  </div>
+</section>
+{{ end }}

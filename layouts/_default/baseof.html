@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}"/>
+  <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600&family=Jost:wght@200;300;400;500;600&display=swap" rel="stylesheet"/>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans:  ['Jost', 'sans-serif'],
+          },
+          colors: {
+            gold: {
+              50:  '#fdfbf3',
+              100: '#faf5e0',
+              200: '#f4e8b4',
+              300: '#edd97a',
+              400: '#e4c53e',
+              500: '#d4a917',
+              600: '#b8890f',
+              700: '#92670e',
+              800: '#785213',
+              900: '#654516',
+            },
+            navy: {
+              50:  '#f0f3f9',
+              100: '#dde4f0',
+              200: '#c3cfe4',
+              300: '#99b0d3',
+              400: '#6888bc',
+              500: '#4868a4',
+              600: '#364f88',
+              700: '#2d3f6e',
+              800: '#28375c',
+              900: '#1a2540',
+            },
+          },
+          letterSpacing: {
+            widest: '0.2em',
+          },
+          boxShadow: {
+            'elegant': '0 4px 40px rgba(0,0,0,0.06)',
+            'card':    '0 2px 20px rgba(0,0,0,0.05)',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    :root { --gold: #d4a917; --navy: #1a2540; }
+
+    body {
+      font-family: 'Jost', sans-serif;
+      font-weight: 300;
+      background: #fafafa;
+      color: #1a2540;
+      letter-spacing: 0.01em;
+    }
+
+    /* Cormorant Garamond untuk semua heading */
+    h1, h2, h3, h4, h5, h6,
+    .font-serif {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      letter-spacing: 0.01em;
+    }
+
+    /* Ukuran heading lebih besar karena Cormorant terlihat terbaik di size besar */
+    h1 { font-size: clamp(3rem, 6vw, 5.5rem); font-weight: 600; line-height: 1.1; }
+    h2 { font-size: clamp(2.2rem, 4vw, 3.4rem); font-weight: 600; line-height: 1.15; }
+    h3 { font-size: clamp(1.6rem, 2.5vw, 2.2rem); font-weight: 500; line-height: 1.25; }
+
+    /* Body text Jost ringan & bersih — base lebih besar */
+    html { font-size: 17px; }
+    p, li, td, th, label, input, textarea {
+      font-family: 'Jost', sans-serif;
+      font-weight: 300;
+      font-size: 1.05rem;
+      line-height: 1.8;
+    }
+
+    /* Label & nav pakai Jost 400 */
+    nav, button, a, .label {
+      font-family: 'Jost', sans-serif;
+      font-size: 1rem;
+    }
+
+    /* Utility classes */
+    .gradient-hero   { background: linear-gradient(135deg, #1a2540 0%, #2d3f6e 50%, #364f88 100%); }
+    .gradient-gold   { background: linear-gradient(135deg, #d4a917 0%, #e4c53e 100%); }
+    .gradient-subtle { background: linear-gradient(180deg, #ffffff 0%, #f8f7f4 100%); }
+    .glass {
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255,255,255,0.15);
+    }
+
+    /* Gold underline dekoratif */
+    .gold-line::after {
+      content: '';
+      display: block;
+      width: 48px;
+      height: 2px;
+      background: var(--gold);
+      margin-top: 14px;
+      border-radius: 2px;
+    }
+    .gold-line-center::after {
+      content: '';
+      display: block;
+      width: 48px;
+      height: 2px;
+      background: var(--gold);
+      margin: 14px auto 0;
+      border-radius: 2px;
+    }
+
+    /* Nav underline hover */
+    .nav-link { position: relative; font-weight: 400; letter-spacing: 0.04em; }
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      bottom: -2px; left: 0;
+      width: 0; height: 1px;
+      background: var(--gold);
+      transition: width .3s ease;
+    }
+    .nav-link:hover::after { width: 100%; }
+
+    /* Card hover */
+    .card-hover { transition: transform .25s ease, box-shadow .25s ease; }
+    .card-hover:hover { transform: translateY(-4px); box-shadow: 0 16px 48px rgba(0,0,0,0.10); }
+
+    /* Ticker */
+    .ticker-wrap { overflow: hidden; }
+    .ticker-content { display: inline-flex; animation: ticker 32s linear infinite; white-space: nowrap; }
+    @keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+
+    /* Fade in */
+    .fade-in { animation: fadeIn 0.7s ease forwards; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* Italic aksen untuk Cormorant */
+    .serif-italic {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-weight: 400;
+    }
+
+    /* Tracking lebar untuk label kecil */
+    .label-spaced {
+      font-family: 'Jost', sans-serif;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body class="antialiased">
+
+  {{ partial "header.html" . }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <script>
+    const btn  = document.getElementById('menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    if (btn && menu) {
+      btn.addEventListener('click', () => menu.classList.toggle('hidden'));
+    }
+    window.addEventListener('scroll', () => {
+      const nav = document.getElementById('main-nav');
+      if (nav) nav.classList.toggle('shadow-elegant', window.scrollY > 10);
+    });
+  </script>
+</body>
+</html>
