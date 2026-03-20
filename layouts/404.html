@@ -1,0 +1,103 @@
+{{/* layouts/404.html */}}
+{{ define "main" }}
+
+<section class="min-h-screen gradient-hero relative overflow-hidden flex items-center justify-center">
+
+  <!-- Background decorative -->
+  <div class="absolute inset-0">
+    <div class="absolute inset-0 opacity-5"
+         style="background-image: linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.1) 1px, transparent 1px); background-size: 48px 48px;"></div>
+    <div class="absolute top-0 right-0 w-96 h-96 opacity-10 rounded-full"
+         style="background: radial-gradient(circle, #d4a917 0%, transparent 70%); transform: translate(30%, -30%)"></div>
+    <div class="absolute bottom-0 left-0 w-96 h-96 opacity-10 rounded-full"
+         style="background: radial-gradient(circle, #6888bc 0%, transparent 70%); transform: translate(-30%, 30%)"></div>
+  </div>
+
+  <div class="relative text-center px-6 max-w-2xl mx-auto fade-in">
+
+    <!-- Angka 404 besar -->
+    <div class="relative mb-8 select-none">
+      <div class="font-serif font-bold text-white leading-none"
+           style="font-size: clamp(8rem, 20vw, 14rem); opacity: 0.08; line-height: 1;">
+        404
+      </div>
+      <div class="absolute inset-0 flex items-center justify-center">
+        <div class="glass rounded-2xl px-8 py-5">
+          <div class="flex items-center gap-3">
+            <div class="w-2.5 h-2.5 rounded-full bg-red-400 animate-pulse"></div>
+            <span class="font-serif text-white text-xl font-semibold tracking-wide">Halaman Tidak Ditemukan</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pesan -->
+    <p class="text-navy-200 text-lg leading-relaxed mb-3">
+      Maaf, halaman yang Anda cari tidak tersedia atau telah dipindahkan.
+    </p>
+    <p class="text-navy-400 text-sm mb-12">
+      Kode kesalahan: <span class="text-gold-400 font-medium font-serif">404 Not Found</span>
+    </p>
+
+    <!-- Tombol aksi -->
+    <div class="flex flex-wrap justify-center gap-4 mb-16">
+      <a href="/"
+         class="inline-flex items-center gap-2 px-8 py-3.5 gradient-gold text-white font-semibold rounded-xl shadow-lg hover:shadow-xl hover:opacity-90 transition text-sm">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+        </svg>
+        Kembali ke Beranda
+      </a>
+      <a href="/berita"
+         class="inline-flex items-center gap-2 px-8 py-3.5 glass text-white font-medium rounded-xl hover:bg-white/20 transition text-sm">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10l6 6v10a2 2 0 01-2 2z"/>
+        </svg>
+        Lihat Berita
+      </a>
+      <a href="/kontak"
+         class="inline-flex items-center gap-2 px-8 py-3.5 glass text-white font-medium rounded-xl hover:bg-white/20 transition text-sm">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+        </svg>
+        Hubungi Kami
+      </a>
+    </div>
+
+    <!-- Link cepat -->
+    <div class="glass rounded-2xl p-6 text-left">
+      <p class="text-navy-300 text-xs font-medium tracking-widest uppercase mb-4 text-center">
+        Mungkin Anda mencari
+      </p>
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+        <a href="/" class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 transition group">
+          <svg class="w-4 h-4 text-gold-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
+          <span class="text-white text-sm group-hover:text-gold-300 transition">Beranda</span>
+        </a>
+        <a href="/profil" class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 transition group">
+          <svg class="w-4 h-4 text-gold-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
+          <span class="text-white text-sm group-hover:text-gold-300 transition">Profil</span>
+        </a>
+        <a href="/berita" class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 transition group">
+          <svg class="w-4 h-4 text-gold-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10l6 6v10a2 2 0 01-2 2z"/></svg>
+          <span class="text-white text-sm group-hover:text-gold-300 transition">Berita</span>
+        </a>
+        <a href="/layanan" class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 transition group">
+          <svg class="w-4 h-4 text-gold-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
+          <span class="text-white text-sm group-hover:text-gold-300 transition">Layanan</span>
+        </a>
+        <a href="/publikasi" class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 transition group">
+          <svg class="w-4 h-4 text-gold-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+          <span class="text-white text-sm group-hover:text-gold-300 transition">Publikasi</span>
+        </a>
+        <a href="/kontak" class="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 transition group">
+          <svg class="w-4 h-4 text-gold-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+          <span class="text-white text-sm group-hover:text-gold-300 transition">Kontak</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{{ end }}

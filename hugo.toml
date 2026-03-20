@@ -3,11 +3,14 @@ languageCode = "id-id"
 title = "Kejaksaan Negeri Palu"
 # theme = "kejari-palu"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   description = "Portal resmi Kejaksaan Negeri Palu — melayani dengan sepenuh hati."
   author = "Kejaksaan Negeri Palu"
   tagline = "Melayani dengan Sepenuh Hati"
-  address = "Jl. Medan Merdeka Barat No.1, Jakarta Pusat 10110"
+  address = "Jl. Moh. Yamin No. 97 Palu"
   phone = "(021) 3500-000"
   email = "info@kementerian.go.id"
 

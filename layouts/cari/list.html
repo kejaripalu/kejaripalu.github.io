@@ -1,0 +1,207 @@
+{{/* layouts/cari/list.html */}}
+{{ define "main" }}
+
+<!-- Page Header -->
+<div class="gradient-hero py-20">
+  <div class="max-w-3xl mx-auto px-6 text-center">
+    <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass text-gold-300 text-xs font-medium tracking-widest uppercase mb-6">
+      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/></svg>
+      Pencarian
+    </div>
+    <h1 class="font-serif text-white leading-tight mb-6">Cari Informasi</h1>
+    <p class="text-navy-200 leading-relaxed mb-10">Temukan berita, layanan, dan informasi yang Anda butuhkan.</p>
+
+    <!-- Search Box Utama -->
+    <div class="relative">
+      <input
+        id="search-input"
+        type="text"
+        placeholder="Ketik kata kunci pencarian..."
+        autocomplete="off"
+        class="w-full px-6 py-4 pr-14 rounded-2xl bg-white text-navy-900 text-base font-medium shadow-elegant focus:outline-none focus:ring-2 focus:ring-gold-400 transition"
+      />
+      <div class="absolute right-4 top-1/2 -translate-y-1/2">
+        <svg id="search-icon" class="w-5 h-5 text-navy-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+        </svg>
+        <!-- Loading spinner -->
+        <svg id="search-spinner" class="w-5 h-5 text-gold-500 animate-spin hidden" fill="none" viewBox="0 0 24 24">
+          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"/>
+          <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- Info hasil -->
+    <p id="search-info" class="text-navy-400 text-sm mt-4 hidden"></p>
+  </div>
+</div>
+
+<!-- Hasil Pencarian -->
+<section class="py-16 gradient-subtle">
+  <div class="max-w-4xl mx-auto px-6">
+
+    <!-- State: Belum ada input -->
+    <div id="state-empty" class="text-center py-16">
+      <div class="w-16 h-16 rounded-2xl bg-white shadow-card flex items-center justify-center mx-auto mb-5">
+        <svg class="w-7 h-7 text-navy-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/></svg>
+      </div>
+      <p class="text-navy-500 text-sm">Mulai ketik untuk mencari...</p>
+      <!-- Pencarian populer -->
+      <div class="mt-8">
+        <p class="text-navy-400 text-xs font-medium tracking-widest uppercase mb-4">Pencarian Populer</p>
+        <div class="flex flex-wrap justify-center gap-2">
+          <button onclick="doSearch('CPNS')"         class="tag-btn px-4 py-1.5 rounded-full bg-white border border-gray-200 text-navy-600 text-xs hover:border-gold-400 hover:text-gold-700 transition shadow-card">CPNS</button>
+          <button onclick="doSearch('Pengumuman')"   class="tag-btn px-4 py-1.5 rounded-full bg-white border border-gray-200 text-navy-600 text-xs hover:border-gold-400 hover:text-gold-700 transition shadow-card">Pengumuman</button>
+          <button onclick="doSearch('Layanan')"      class="tag-btn px-4 py-1.5 rounded-full bg-white border border-gray-200 text-navy-600 text-xs hover:border-gold-400 hover:text-gold-700 transition shadow-card">Layanan</button>
+          <button onclick="doSearch('Beasiswa')"     class="tag-btn px-4 py-1.5 rounded-full bg-white border border-gray-200 text-navy-600 text-xs hover:border-gold-400 hover:text-gold-700 transition shadow-card">Beasiswa</button>
+          <button onclick="doSearch('Perizinan')"    class="tag-btn px-4 py-1.5 rounded-full bg-white border border-gray-200 text-navy-600 text-xs hover:border-gold-400 hover:text-gold-700 transition shadow-card">Perizinan</button>
+          <button onclick="doSearch('Regulasi')"     class="tag-btn px-4 py-1.5 rounded-full bg-white border border-gray-200 text-navy-600 text-xs hover:border-gold-400 hover:text-gold-700 transition shadow-card">Regulasi</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- State: Tidak ada hasil -->
+    <div id="state-noresult" class="text-center py-16 hidden">
+      <div class="w-16 h-16 rounded-2xl bg-white shadow-card flex items-center justify-center mx-auto mb-5">
+        <svg class="w-7 h-7 text-navy-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+      </div>
+      <p class="text-navy-700 font-semibold mb-2">Tidak ada hasil ditemukan</p>
+      <p class="text-navy-400 text-sm">Coba kata kunci lain atau periksa ejaan Anda.</p>
+    </div>
+
+    <!-- State: Hasil pencarian -->
+    <div id="search-results" class="space-y-4 hidden"></div>
+
+  </div>
+</section>
+
+<!-- Fuse.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+  let fuse = null;
+  let searchData = [];
+  let debounceTimer = null;
+
+  // Ambil data index JSON dari Hugo
+  async function loadIndex() {
+    try {
+      const res = await fetch('{{ "/index.json" | absURL }}');
+      if (!res.ok) throw new Error('index.json tidak ditemukan');
+      searchData = await res.json();
+      fuse = new Fuse(searchData, {
+        keys: [
+          { name: 'title',    weight: 0.5 },
+          { name: 'summary',  weight: 0.3 },
+          { name: 'content',  weight: 0.1 },
+          { name: 'kategori', weight: 0.05 },
+          { name: 'tags',     weight: 0.05 },
+        ],
+        threshold: 0.4,
+        includeScore: true,
+        includeMatches: true,
+        minMatchCharLength: 2,
+      });
+    } catch(e) {
+      console.error('Gagal memuat index pencarian:', e);
+    }
+  }
+
+  // Highlight teks yang cocok
+  function highlight(text, query) {
+    if (!text || !query) return text || '';
+    const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return text.replace(regex, '<mark class="bg-gold-100 text-gold-800 rounded px-0.5">$1</mark>');
+  }
+
+  // Render kartu hasil
+  function renderCard(item, query) {
+    const title   = highlight(item.title, query);
+    const summary = highlight(item.summary || item.content || '', query);
+    const kat     = item.kategori || 'Halaman';
+    return `
+      <a href="${item.url}" class="card-hover block bg-white rounded-2xl p-6 border border-gray-100 shadow-card group">
+        <div class="flex items-center gap-3 mb-3">
+          <span class="px-3 py-0.5 rounded-full bg-gold-50 text-gold-700 text-xs font-medium">${kat}</span>
+          <span class="text-navy-400 text-xs">${item.date || ''}</span>
+        </div>
+        <h3 class="font-serif text-navy-900 text-xl font-semibold leading-snug group-hover:text-gold-700 transition mb-2">${title}</h3>
+        <p class="text-navy-500 text-sm leading-relaxed line-clamp-2">${summary}</p>
+        <div class="mt-4 flex items-center gap-1 text-gold-600 text-xs font-semibold opacity-0 group-hover:opacity-100 transition">
+          Baca Selengkapnya
+          <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+        </div>
+      </a>`;
+  }
+
+  // Fungsi utama pencarian
+  function doSearch(query) {
+    const input = document.getElementById('search-input');
+    if (query !== undefined) {
+      input.value = query;
+    } else {
+      query = input.value.trim();
+    }
+
+    const stateEmpty    = document.getElementById('state-empty');
+    const stateNoResult = document.getElementById('state-noresult');
+    const resultsEl     = document.getElementById('search-results');
+    const infoEl        = document.getElementById('search-info');
+
+    if (!query) {
+      stateEmpty.classList.remove('hidden');
+      stateNoResult.classList.add('hidden');
+      resultsEl.classList.add('hidden');
+      infoEl.classList.add('hidden');
+      return;
+    }
+
+    if (!fuse) {
+      stateEmpty.classList.add('hidden');
+      stateNoResult.classList.remove('hidden');
+      resultsEl.classList.add('hidden');
+      return;
+    }
+
+    const results = fuse.search(query);
+
+    stateEmpty.classList.add('hidden');
+
+    if (results.length === 0) {
+      stateNoResult.classList.remove('hidden');
+      resultsEl.classList.add('hidden');
+      infoEl.classList.add('hidden');
+      return;
+    }
+
+    stateNoResult.classList.add('hidden');
+    resultsEl.classList.remove('hidden');
+    infoEl.classList.remove('hidden');
+    infoEl.textContent = `Ditemukan ${results.length} hasil untuk "${query}"`;
+    resultsEl.innerHTML = results.map(r => renderCard(r.item, query)).join('');
+  }
+
+  // Debounce input
+  document.getElementById('search-input').addEventListener('input', function() {
+    const spinner = document.getElementById('search-spinner');
+    const icon    = document.getElementById('search-icon');
+    spinner.classList.remove('hidden');
+    icon.classList.add('hidden');
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      doSearch();
+      spinner.classList.add('hidden');
+      icon.classList.remove('hidden');
+    }, 300);
+  });
+
+  // Cek URL param ?q=
+  window.addEventListener('DOMContentLoaded', async () => {
+    await loadIndex();
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) doSearch(q);
+  });
+</script>
+
+{{ end }}
