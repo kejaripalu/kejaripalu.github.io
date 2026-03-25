@@ -1,6 +1,6 @@
 ---
 title: "Layanan Publik"
-description: "Akses berbagai layanan publik Kementerian secara online, mudah, cepat, dan transparan."
+description: "Akses berbagai layanan publik Kejaksaan Negeri Palu secara online, mudah, cepat, dan transparan."
 ---
 
 ## Perizinan Online

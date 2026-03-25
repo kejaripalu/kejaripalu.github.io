@@ -1,0 +1,430 @@
+{{/* layouts/faq/list.html */}}
+{{ define "main" }}
+
+<!-- Page Header -->
+<div class="gradient-hero py-20">
+  <div class="max-w-4xl mx-auto px-6 text-center">
+    <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass text-gold-300 text-xs font-medium tracking-widest uppercase mb-6">
+      <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+      Pusat Bantuan
+    </div>
+    <h1 class="font-serif text-white leading-tight mb-5">Pertanyaan yang Sering Diajukan</h1>
+    <p class="text-navy-200 leading-relaxed max-w-xl mx-auto mb-10">
+      Temukan jawaban atas pertanyaan umum seputar layanan dan informasi Kejaksaan Negeri Palu.
+    </p>
+
+    <!-- Search FAQ -->
+    <div class="relative max-w-lg mx-auto">
+      <input
+        id="faq-search"
+        type="text"
+        placeholder="Cari pertanyaan..."
+        class="w-full px-6 py-4 pr-12 rounded-2xl bg-white text-navy-900 text-sm shadow-elegant focus:outline-none focus:ring-2 focus:ring-gold-400 transition"
+      />
+      <svg class="w-5 h-5 text-navy-400 absolute right-4 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+      </svg>
+    </div>
+  </div>
+</div>
+
+<!-- FAQ Content -->
+<section class="py-16 gradient-subtle">
+  <div class="max-w-4xl mx-auto px-6">
+
+    <!-- Filter Kategori -->
+    <div class="flex flex-wrap gap-2 mb-10 justify-center" id="kategori-filter">
+      <button onclick="filterKategori('semua')" data-kat="semua"
+        class="faq-filter-btn aktif px-5 py-2 rounded-full text-sm font-medium transition">
+        Semua
+      </button>
+      <button onclick="filterKategori('umum')" data-kat="umum"
+        class="faq-filter-btn px-5 py-2 rounded-full text-sm font-medium transition">
+        Umum
+      </button>
+      <button onclick="filterKategori('layanan')" data-kat="layanan"
+        class="faq-filter-btn px-5 py-2 rounded-full text-sm font-medium transition">
+        Layanan
+      </button>
+      <button onclick="filterKategori('hukum')" data-kat="hukum"
+        class="faq-filter-btn px-5 py-2 rounded-full text-sm font-medium transition">
+        Hukum & Pidana
+      </button>
+      <button onclick="filterKategori('pengaduan')" data-kat="pengaduan"
+        class="faq-filter-btn px-5 py-2 rounded-full text-sm font-medium transition">
+        Pengaduan
+      </button>
+      <button onclick="filterKategori('informasi')" data-kat="informasi"
+        class="faq-filter-btn px-5 py-2 rounded-full text-sm font-medium transition">
+        Informasi Publik
+      </button>
+    </div>
+
+    <!-- Tidak ada hasil pencarian -->
+    <div id="faq-noresult" class="hidden text-center py-16">
+      <div class="w-14 h-14 rounded-2xl bg-white shadow-card flex items-center justify-center mx-auto mb-4">
+        <svg class="w-6 h-6 text-navy-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+      </div>
+      <p class="text-navy-600 font-medium mb-1">Pertanyaan tidak ditemukan</p>
+      <p class="text-navy-400 text-sm">Coba kata kunci lain atau hubungi kami langsung.</p>
+    </div>
+
+    <!-- Daftar FAQ -->
+    <div id="faq-list" class="space-y-10">
+
+      <!-- ══ UMUM ══ -->
+      <div data-kategori="umum" class="faq-section">
+        <h2 class="font-serif text-navy-900 text-2xl font-semibold mb-5 flex items-center gap-3">
+          <span class="w-8 h-8 rounded-lg gradient-gold flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </span>
+          Umum
+        </h2>
+        <div class="space-y-3">
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apa itu Kejaksaan Negeri Palu?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Kejaksaan Negeri Palu adalah lembaga pemerintah yang bertugas melaksanakan kekuasaan negara di bidang penuntutan dan tugas-tugas lain berdasarkan undang-undang di wilayah hukum Kota Palu, Sulawesi Tengah. Kejaksaan Negeri Palu bertanggung jawab kepada Kejaksaan Tinggi Sulawesi Tengah.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Di mana lokasi kantor Kejaksaan Negeri Palu?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Kantor Kejaksaan Negeri Palu berlokasi di <strong>{{ .Site.Params.address }}</strong>. Anda dapat menghubungi kami melalui telepon <strong>{{ .Site.Params.phone }}</strong> atau email <strong>{{ .Site.Params.email }}</strong>.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apa jam operasional Kejaksaan Negeri Palu?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Kantor kami buka pada hari <strong>Senin – Jumat pukul 08.00 – 16.00 WITA</strong>. Pada hari Sabtu, Minggu, dan hari libur nasional, kantor tutup. Untuk urusan mendesak di luar jam kerja, dapat menghubungi nomor darurat yang tersedia.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ══ LAYANAN ══ -->
+      <div data-kategori="layanan" class="faq-section">
+        <h2 class="font-serif text-navy-900 text-2xl font-semibold mb-5 flex items-center gap-3">
+          <span class="w-8 h-8 rounded-lg bg-navy-800 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
+          </span>
+          Layanan
+        </h2>
+        <div class="space-y-3">
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Bagaimana cara mendapatkan Surat Keterangan Bebas Masalah Hukum (SKBMH)?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Untuk mendapatkan SKBMH, Anda perlu datang langsung ke kantor dengan membawa:</p>
+                <ul class="mt-3 space-y-1 text-navy-600 text-sm">
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Fotokopi KTP yang masih berlaku</li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Surat permohonan bermaterai</li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Fotokopi ijazah terakhir</li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Pas foto terbaru 4×6 (2 lembar)</li>
+                </ul>
+                <p class="text-navy-600 text-sm mt-3">Proses penerbitan membutuhkan waktu <strong>3–5 hari kerja</strong>.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apakah Kejaksaan Negeri Palu menyediakan layanan penyuluhan hukum gratis?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Ya, Kejaksaan Negeri Palu menyediakan layanan <strong>penyuluhan hukum gratis</strong> kepada masyarakat. Layanan ini tersedia melalui program JAGA DESA (Jaksa Garda Desa) dan kegiatan BINMATKUM (Pembinaan Masyarakat Taat Hukum). Untuk menjadwalkan penyuluhan di komunitas atau instansi Anda, silakan hubungi kami melalui email atau telepon.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Bagaimana cara mengajukan permohonan Diversi perkara anak?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Permohonan diversi untuk perkara anak diajukan secara tertulis kepada Kepala Kejaksaan Negeri Palu. Syarat diversi antara lain: anak baru pertama kali melakukan tindak pidana, ancaman pidana di bawah 7 tahun, dan ada persetujuan korban. Kami menyarankan untuk berkonsultasi terlebih dahulu dengan jaksa yang menangani perkara.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ══ HUKUM & PIDANA ══ -->
+      <div data-kategori="hukum" class="faq-section">
+        <h2 class="font-serif text-navy-900 text-2xl font-semibold mb-5 flex items-center gap-3">
+          <span class="w-8 h-8 rounded-lg bg-red-600 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"/></svg>
+          </span>
+          Hukum & Pidana
+        </h2>
+        <div class="space-y-3">
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Bagaimana saya bisa mengetahui perkembangan perkara yang ditangani Kejaksaan?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Untuk mengetahui perkembangan perkara, Anda dapat datang langsung ke kantor dan menemui Jaksa Penuntut Umum yang menangani perkara tersebut dengan membawa surat kuasa atau bukti keterkaitan dengan perkara. Informasi perkara bersifat terbatas dan hanya dapat diberikan kepada pihak yang berkepentingan.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apa perbedaan tugas Polisi, Kejaksaan, dan Pengadilan?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Dalam sistem peradilan pidana Indonesia:</p>
+                <ul class="mt-3 space-y-2 text-navy-600 text-sm">
+                  <li class="flex items-start gap-2"><span class="text-gold-500 font-bold mt-0.5">•</span><span><strong>Polisi</strong> — bertugas melakukan penyelidikan dan penyidikan perkara pidana.</span></li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 font-bold mt-0.5">•</span><span><strong>Kejaksaan</strong> — bertugas melakukan penuntutan dan mengeksekusi putusan pengadilan yang telah berkekuatan hukum tetap.</span></li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 font-bold mt-0.5">•</span><span><strong>Pengadilan</strong> — bertugas memeriksa, mengadili, dan memutus perkara.</span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apakah tersangka/terdakwa berhak didampingi penasihat hukum?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Ya, setiap tersangka/terdakwa berhak mendapatkan bantuan hukum sejak proses penyidikan. Hak ini dijamin oleh KUHAP. Bagi yang tidak mampu, negara wajib menyediakan penasihat hukum secara cuma-cuma melalui program <strong>Bantuan Hukum</strong> yang dikelola oleh Organisasi Bantuan Hukum (OBH) terakreditasi.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ══ PENGADUAN ══ -->
+      <div data-kategori="pengaduan" class="faq-section">
+        <h2 class="font-serif text-navy-900 text-2xl font-semibold mb-5 flex items-center gap-3">
+          <span class="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg>
+          </span>
+          Pengaduan
+        </h2>
+        <div class="space-y-3">
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Bagaimana cara melaporkan dugaan korupsi kepada Kejaksaan?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Laporan dugaan korupsi dapat disampaikan melalui:</p>
+                <ul class="mt-3 space-y-1 text-navy-600 text-sm">
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Datang langsung ke kantor dan menemui petugas PTSP</li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Email: <a href="mailto:{{ .Site.Params.email }}" class="text-gold-600 hover:underline">{{ .Site.Params.email }}</a></li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Portal LAPOR! di <a href="https://lapor.go.id" target="_blank" class="text-gold-600 hover:underline">lapor.go.id</a></li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Aplikasi JAGA di Play Store / App Store</li>
+                </ul>
+                <p class="text-navy-500 text-xs mt-4 italic">* Identitas pelapor dijaga kerahasiaannya sesuai ketentuan yang berlaku.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apakah identitas pelapor dirahasiakan?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Ya. Berdasarkan Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban, identitas pelapor <strong>wajib dirahasiakan</strong>. Pelapor juga mendapat perlindungan dari ancaman, intimidasi, atau tindakan balasan dari pihak terlapor.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ══ INFORMASI PUBLIK ══ -->
+      <div data-kategori="informasi" class="faq-section">
+        <h2 class="font-serif text-navy-900 text-2xl font-semibold mb-5 flex items-center gap-3">
+          <span class="w-8 h-8 rounded-lg bg-green-600 flex items-center justify-center">
+            <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
+          </span>
+          Informasi Publik
+        </h2>
+        <div class="space-y-3">
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Bagaimana cara mengajukan permohonan informasi publik?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Permohonan informasi publik diajukan kepada <strong>PPID (Pejabat Pengelola Informasi dan Dokumentasi)</strong> Kejaksaan Negeri Palu dengan cara:</p>
+                <ul class="mt-3 space-y-1 text-navy-600 text-sm">
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Mengisi formulir permohonan informasi</li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Melampirkan fotokopi identitas diri</li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 mt-0.5">•</span>Menyebutkan informasi yang dimohon secara jelas</li>
+                </ul>
+                <p class="text-navy-600 text-sm mt-3">Informasi akan diberikan dalam waktu <strong>maksimal 10 hari kerja</strong> dan dapat diperpanjang 7 hari kerja apabila diperlukan.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="faq-item bg-white rounded-2xl border border-gray-100 shadow-card overflow-hidden">
+            <button class="faq-btn w-full text-left px-6 py-5 flex items-center justify-between gap-4 group">
+              <span class="font-medium text-navy-800 group-hover:text-gold-700 transition text-sm leading-snug">Apakah semua informasi Kejaksaan bisa diakses publik?</span>
+              <svg class="faq-icon w-5 h-5 text-navy-400 shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="faq-answer hidden px-6 pb-5">
+              <div class="pt-1 border-t border-gray-100">
+                <p class="text-navy-600 text-sm leading-relaxed mt-4">Tidak semua informasi bersifat terbuka. Berdasarkan UU KIP No. 14 Tahun 2008, informasi dibagi menjadi:</p>
+                <ul class="mt-3 space-y-2 text-navy-600 text-sm">
+                  <li class="flex items-start gap-2"><span class="text-gold-500 font-bold mt-0.5">•</span><span><strong>Informasi terbuka</strong> — dapat diakses siapa saja (laporan kinerja, anggaran publik, profil instansi)</span></li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 font-bold mt-0.5">•</span><span><strong>Informasi terbatas</strong> — hanya untuk pihak tertentu yang berkepentingan</span></li>
+                  <li class="flex items-start gap-2"><span class="text-gold-500 font-bold mt-0.5">•</span><span><strong>Informasi dikecualikan</strong> — bersifat rahasia (berkas perkara aktif, informasi intelijen)</span></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CTA Masih ada pertanyaan -->
+    <div class="mt-16 gradient-hero rounded-2xl p-10 text-center relative overflow-hidden">
+      <div class="absolute inset-0 opacity-5" style="background-image: linear-gradient(rgba(255,255,255,.1) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.1) 1px, transparent 1px); background-size: 40px 40px;"></div>
+      <div class="relative">
+        <h3 class="font-serif text-white text-2xl font-semibold mb-3">Masih Ada Pertanyaan?</h3>
+        <p class="text-navy-200 text-sm mb-8 max-w-md mx-auto leading-relaxed">Jika pertanyaan Anda belum terjawab, tim kami siap membantu Anda secara langsung.</p>
+        <div class="flex flex-wrap justify-center gap-4">
+          <a href="/kontak" class="inline-flex items-center gap-2 px-7 py-3 gradient-gold text-white font-semibold rounded-xl text-sm hover:opacity-90 transition shadow-lg">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+            Hubungi Kami
+          </a>
+          <a href="https://wa.me/{{ .Site.Params.whatsapp }}" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            class="inline-flex items-center gap-2 px-7 py-3 glass text-white font-medium rounded-xl text-sm hover:bg-white/20 transition">
+            
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.72.937 3.658 1.43 5.63 1.43h.006c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
+            </svg>
+
+            Chat Whatsapp
+            </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<style>
+  .faq-filter-btn { background: white; color: #2d3f6e; border: 1px solid #e5e7eb; }
+  .faq-filter-btn:hover { border-color: #d4a917; color: #b8890f; }
+  .faq-filter-btn.aktif { background: #1a2540; color: white; border-color: #1a2540; }
+  .faq-item.hidden-item { display: none; }
+</style>
+
+<script>
+  // ── Accordion ──
+  document.querySelectorAll('.faq-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const answer = btn.nextElementSibling;
+      const icon   = btn.querySelector('.faq-icon');
+      const isOpen = !answer.classList.contains('hidden');
+
+      // Tutup semua
+      document.querySelectorAll('.faq-answer').forEach(a => a.classList.add('hidden'));
+      document.querySelectorAll('.faq-icon').forEach(i => i.style.transform = '');
+
+      // Buka yang diklik (kecuali kalau sudah terbuka)
+      if (!isOpen) {
+        answer.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+      }
+    });
+  });
+
+  // ── Filter Kategori ──
+  function filterKategori(kat) {
+    // Update tombol aktif
+    document.querySelectorAll('.faq-filter-btn').forEach(btn => {
+      btn.classList.toggle('aktif', btn.dataset.kat === kat);
+    });
+
+    // Tampilkan/sembunyikan section
+    document.querySelectorAll('.faq-section').forEach(section => {
+      const match = kat === 'semua' || section.dataset.kategori === kat;
+      section.style.display = match ? '' : 'none';
+    });
+  }
+
+  // ── Pencarian FAQ ──
+  document.getElementById('faq-search').addEventListener('input', function() {
+    const query = this.value.toLowerCase().trim();
+    const noResult = document.getElementById('faq-noresult');
+    let totalVisible = 0;
+
+    document.querySelectorAll('.faq-item').forEach(item => {
+      const teks = item.querySelector('.faq-btn span').textContent.toLowerCase();
+      const jawaban = item.querySelector('.faq-answer').textContent.toLowerCase();
+      const cocok = !query || teks.includes(query) || jawaban.includes(query);
+      item.classList.toggle('hidden-item', !cocok);
+      if (cocok) totalVisible++;
+    });
+
+    // Sembunyikan section yang semua FAQ-nya tersembunyi
+    document.querySelectorAll('.faq-section').forEach(section => {
+      const adaVisible = section.querySelectorAll('.faq-item:not(.hidden-item)').length > 0;
+      section.style.display = adaVisible ? '' : 'none';
+    });
+
+    // Reset filter tombol saat search aktif
+    if (query) {
+      document.querySelectorAll('.faq-filter-btn').forEach(b => b.classList.remove('aktif'));
+    } else {
+      document.querySelector('[data-kat="semua"]').classList.add('aktif');
+      document.querySelectorAll('.faq-section').forEach(s => s.style.display = '');
+    }
+
+    noResult.classList.toggle('hidden', totalVisible > 0 || !query);
+  });
+</script>
+
+{{ end }}

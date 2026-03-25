@@ -1,17 +1,16 @@
 ---
 title: "Kontak Kami"
-description: "Hubungi Kementerian Republik Indonesia melalui berbagai saluran komunikasi yang tersedia."
+description: "Hubungi Kejaksaan Negeri Palu melalui berbagai saluran komunikasi yang tersedia."
 ---
 
-## Kantor Pusat
+## Kantor
 
-**Kementerian Republik Indonesia**  
-Jl. Medan Merdeka Barat No. 1  
-Jakarta Pusat 10110  
-DKI Jakarta, Indonesia
+**Kejaksaan Negeri Palu**  
+Jl. Moh. Yamin no. 97  
+Kota Palu, Sulawesi Tengah
 
 **Jam Operasional:**  
-Senin – Jumat: 08.00 – 16.00 WIB  
+Senin – Jumat: 08.00 – 16.00 WITA  
 Sabtu, Minggu & Hari Libur: Tutup
 
 ---
@@ -20,17 +19,9 @@ Sabtu, Minggu & Hari Libur: Tutup
 
 | Saluran | Kontak |
 |---------|--------|
-| Telepon | (021) 3500-000 |
-| Fax | (021) 3500-001 |
-| Email Umum | info@kementerian.go.id |
-| Email Pengaduan | pengaduan@kementerian.go.id |
-| WhatsApp | 0812-3456-7890 |
-
----
-
-## Kantor Wilayah
-
-Kementerian memiliki kantor wilayah di 34 provinsi seluruh Indonesia. Untuk informasi kantor wilayah terdekat, hubungi nomor telepon pusat kami.
+| Telepon | 0451-421750 |
+| Email Umum | kejari.plw@gmail.com |
+| WhatsApp | 081112020367 |
 
 ---
 
@@ -38,7 +29,6 @@ Kementerian memiliki kantor wilayah di 34 provinsi seluruh Indonesia. Untuk info
 
 Ikuti kami di media sosial untuk informasi terkini:
 
-- **Facebook:** /KementerianRI
-- **Twitter/X:** @KementerianRI
-- **Instagram:** @kementerian.ri
-- **YouTube:** Kementerian RI
+- **Facebook:** [/KejariPalu](https://www.facebook.com/KejariPalu/)
+- **Instagram:** [@kejaripalu](https://www.instagram.com/kejaripalu)
+- **YouTube:** [Kejari Palu](https://www.youtube.com/@kejaripaluu)

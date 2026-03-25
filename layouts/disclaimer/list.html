@@ -1,0 +1,120 @@
+{{/* layouts/disclaimer/list.html */}}
+{{ define "main" }}
+
+<!-- Page Header -->
+<div class="gradient-hero py-20">
+  <div class="max-w-4xl mx-auto px-6">
+    <nav class="flex items-center gap-2 text-navy-300 text-xs mb-6">
+      <a href="/" class="hover:text-white transition">Beranda</a>
+      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+      <span class="text-white">Disclaimer</span>
+    </nav>
+    <div class="flex items-center gap-4 mb-6">
+      <div class="w-12 h-12 rounded-xl gradient-gold flex items-center justify-center shrink-0">
+        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+        </svg>
+      </div>
+      <div>
+        <h1 class="font-serif text-white leading-tight">Disclaimer</h1>
+        <p class="text-navy-300 text-sm mt-1">Terakhir diperbarui: {{ .Date.Format "02 January 2006" }}</p>
+      </div>
+    </div>
+    <p class="text-navy-200 leading-relaxed max-w-2xl">{{ .Site.Params.description }}</p>
+  </div>
+</div>
+
+<!-- Konten -->
+<section class="py-16 gradient-subtle">
+  <div class="max-w-4xl mx-auto px-6">
+    <div class="grid lg:grid-cols-4 gap-8">
+
+      <!-- Sidebar Navigasi -->
+      <aside class="lg:col-span-1">
+        <div class="bg-white rounded-2xl p-5 border border-gray-100 shadow-card sticky top-24">
+          <p class="text-xs font-medium text-navy-400 tracking-widest uppercase mb-4">Daftar Isi</p>
+          <nav class="space-y-1">
+            <a href="#pernyataan-umum"        class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Pernyataan Umum</a>
+            <a href="#keakuratan-informasi"   class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Keakuratan Informasi</a>
+            <a href="#batasan-tanggung-jawab" class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Batasan Tanggung Jawab</a>
+            <a href="#tautan-eksternal"       class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Tautan Eksternal</a>
+            <a href="#informasi-hukum"        class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Informasi Hukum</a>
+            <a href="#hak-kekayaan"           class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Hak Kekayaan Intelektual</a>
+            <a href="#perubahan-disclaimer"   class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Perubahan Disclaimer</a>
+            <a href="#hubungi-kami"           class="block text-sm text-navy-600 hover:text-gold-600 py-1.5 border-l-2 border-transparent hover:border-gold-400 pl-3 transition">Hubungi Kami</a>
+          </nav>
+        </div>
+      </aside>
+
+      <!-- Konten Utama -->
+      <article class="lg:col-span-3">
+        <div class="bg-white rounded-2xl p-8 lg:p-12 shadow-card border border-gray-100">
+
+          <!-- Banner peringatan -->
+          <div class="flex gap-4 p-5 rounded-xl bg-gold-50 border border-gold-200 mb-10">
+            <svg class="w-5 h-5 text-gold-600 shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <p class="text-gold-800 text-sm leading-relaxed">
+              Dengan mengakses portal ini, Anda dianggap telah membaca dan menyetujui seluruh ketentuan yang berlaku.
+            </p>
+          </div>
+
+          <!-- Konten Markdown -->
+          <div class="prose max-w-none
+            prose-headings:font-serif prose-headings:text-navy-900 prose-headings:scroll-mt-28
+            prose-h2:text-2xl prose-h2:font-semibold prose-h2:mt-10 prose-h2:mb-4 prose-h2:pb-3 prose-h2:border-b prose-h2:border-gray-100
+            prose-h3:text-xl prose-h3:font-medium prose-h3:mt-6 prose-h3:mb-3 prose-h3:text-gold-700
+            prose-p:text-navy-600 prose-p:leading-relaxed prose-p:mb-4
+            prose-a:text-gold-600 prose-a:no-underline prose-a:font-medium hover:prose-a:text-gold-700
+            prose-strong:text-navy-800 prose-strong:font-semibold
+            prose-ul:text-navy-600 prose-ul:space-y-2 prose-li:leading-relaxed
+            prose-ol:text-navy-600 prose-ol:space-y-2
+            prose-hr:border-gray-100 prose-hr:my-8
+            prose-blockquote:not-italic prose-blockquote:border-l-4 prose-blockquote:border-gold-400 prose-blockquote:bg-gold-50 prose-blockquote:rounded-r-xl prose-blockquote:py-3 prose-blockquote:px-5">
+            {{ .Content }}
+          </div>
+
+        </div>
+
+        <!-- Tombol kembali -->
+        <div class="mt-6 flex items-center justify-between">
+          <a href="/" class="inline-flex items-center gap-2 text-sm text-navy-500 hover:text-navy-800 transition">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+            Kembali ke Beranda
+          </a>
+          <a href="/kontak" class="inline-flex items-center gap-2 px-5 py-2.5 gradient-gold text-white text-sm font-semibold rounded-xl hover:opacity-90 transition">
+            Hubungi Kami
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+          </a>
+        </div>
+
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Script: active nav saat scroll -->
+<script>
+  const navLinks = document.querySelectorAll('aside nav a');
+  const sections = document.querySelectorAll('.prose h2');
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.id;
+        navLinks.forEach(link => {
+          const active = link.getAttribute('href') === '#' + id;
+          link.classList.toggle('border-gold-400', active);
+          link.classList.toggle('text-gold-700',   active);
+          link.classList.toggle('font-medium',     active);
+          link.classList.toggle('border-transparent', !active);
+        });
+      }
+    });
+  }, { rootMargin: '-30% 0px -60% 0px' });
+
+  sections.forEach(s => { if (s.id) observer.observe(s); });
+</script>
+
+{{ end }}

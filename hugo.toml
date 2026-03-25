@@ -7,12 +7,13 @@ title = "Kejaksaan Negeri Palu"
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  description = "Portal resmi Kejaksaan Negeri Palu — melayani dengan sepenuh hati."
+  description = "Portal Resmi Kejaksaan Negeri Palu"
   author = "Kejaksaan Negeri Palu"
-  tagline = "Melayani dengan Sepenuh Hati"
+  tagline = "Melayani Masyarakat dengan Sepenuh Hati"
   address = "Jl. Moh. Yamin No. 97 Palu"
-  phone = "(021) 3500-000"
-  email = "info@kementerian.go.id"
+  phone = "0451-421750"
+  email = "kejari.plw@gmail.com"
+  whatsapp = "081112020367"
 
 [menu]
   [[menu.main]]
