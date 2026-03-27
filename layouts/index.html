@@ -24,7 +24,7 @@
       <div class="fade-in">
         <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass text-gold-300 text-xs font-medium tracking-widest uppercase mb-8">
           <span class="w-1.5 h-1.5 rounded-full bg-gold-400 animate-pulse"></span>
-          Portal Resmi Pemerintah
+          Portal Resmi Kejari Palu
         </div>
         <h1 class="font-serif text-white text-5xl lg:text-6xl font-bold leading-tight mb-6">
           Melayani dengan
@@ -63,7 +63,7 @@
       <div class="hidden lg:block">
         <div class="glass rounded-2xl p-1">
           <div class="bg-white/10 rounded-xl p-6">
-            <div class="text-gold-300 text-xs font-medium tracking-widest uppercase mb-4">Pengumuman Terkini</div>
+            <div class="text-gold-300 text-xs font-medium tracking-widest uppercase mb-4">Berita Terkini</div>
             <div class="space-y-4">
               {{ range first 3 (where .Site.RegularPages "Section" "berita") }}
               <a href="{{ .RelPermalink }}" class="block p-4 rounded-xl bg-white/10 hover:bg-white/20 transition group">
@@ -272,7 +272,7 @@
   <div class="max-w-7xl mx-auto px-6">
     <div class="text-center mb-16">
       <p class="text-gold-600 text-xs font-semibold tracking-widest uppercase mb-3">Kepemimpinan</p>
-      <h2 class="font-serif text-navy-900 text-4xl font-bold gold-line-center">Pimpinan Kementerian</h2>
+      <h2 class="font-serif text-navy-900 text-4xl font-bold gold-line-center">Unsur Pimpinan</h2>
     </div>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
 
@@ -282,8 +282,8 @@
           <svg class="w-16 h-16 text-navy-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
         </div>
         <div class="w-8 h-0.5 bg-gold-400 mx-auto mb-3"></div>
-        <h3 class="font-serif text-navy-900 font-semibold text-lg">Dr. H. Ahmad Fauzi, M.Si.</h3>
-        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Menteri</p>
+        <h3 class="font-serif text-navy-900 font-semibold text-lg">Erlin Tanhardjo, S.H., M.H.</h3>
+        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Kepala Sub Bagian Pembinaan</p>
         <p class="text-navy-500 text-xs mt-3 leading-relaxed px-4">Memimpin pelaksanaan tugas dan fungsi kementerian sesuai kebijakan nasional.</p>
       </div>
 
@@ -293,7 +293,37 @@
         </div>
         <div class="w-8 h-0.5 bg-gold-400 mx-auto mb-3"></div>
         <h3 class="font-serif text-navy-900 font-semibold text-lg">Dr. Siti Rahayu, S.H., M.H.</h3>
-        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Wakil Menteri</p>
+        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Kepala Seksi Intelijen</p>
+        <p class="text-navy-500 text-xs mt-3 leading-relaxed px-4">Membantu Menteri dalam koordinasi dan pengawasan program kementerian.</p>
+      </div>
+
+      <div class="card-hover text-center group">
+        <div class="w-32 h-32 mx-auto rounded-2xl bg-gradient-to-br from-gray-50 to-gray-100 mb-5 flex items-center justify-center">
+          <svg class="w-16 h-16 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
+        </div>
+        <div class="w-8 h-0.5 bg-gold-400 mx-auto mb-3"></div>
+        <h3 class="font-serif text-navy-900 font-semibold text-lg">Ir. Budi Santoso, M.T.</h3>
+        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Kepala Seksi Pidana Umum</p>
+        <p class="text-navy-500 text-xs mt-3 leading-relaxed px-4">Mengkoordinasikan dukungan administrasi seluruh unit kerja kementerian.</p>
+      </div>
+
+       <div class="card-hover text-center group">
+        <div class="w-32 h-32 mx-auto rounded-2xl bg-gradient-to-br from-navy-100 to-navy-200 mb-5 flex items-center justify-center">
+          <svg class="w-16 h-16 text-navy-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
+        </div>
+        <div class="w-8 h-0.5 bg-gold-400 mx-auto mb-3"></div>
+        <h3 class="font-serif text-navy-900 font-semibold text-lg">Dr. H. Ahmad Fauzi, M.Si.</h3>
+        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Kepala Seksi Pidana Khusus</p>
+        <p class="text-navy-500 text-xs mt-3 leading-relaxed px-4">Memimpin pelaksanaan tugas dan fungsi kementerian sesuai kebijakan nasional.</p>
+      </div>
+
+      <div class="card-hover text-center group">
+        <div class="w-32 h-32 mx-auto rounded-2xl bg-gradient-to-br from-gold-50 to-gold-100 mb-5 flex items-center justify-center">
+          <svg class="w-16 h-16 text-gold-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
+        </div>
+        <div class="w-8 h-0.5 bg-gold-400 mx-auto mb-3"></div>
+        <h3 class="font-serif text-navy-900 font-semibold text-lg">Dr. Siti Rahayu, S.H., M.H.</h3>
+        <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Kepala Seksi Perdata dan Tata Usaha Negara</p>
         <p class="text-navy-500 text-xs mt-3 leading-relaxed px-4">Membantu Menteri dalam koordinasi dan pengawasan program kementerian.</p>
       </div>
 
@@ -306,6 +336,7 @@
         <p class="text-gold-600 text-xs font-medium tracking-wider uppercase mt-1">Sekretaris Jenderal</p>
         <p class="text-navy-500 text-xs mt-3 leading-relaxed px-4">Mengkoordinasikan dukungan administrasi seluruh unit kerja kementerian.</p>
       </div>
+
 
     </div>
   </div>
@@ -326,7 +357,7 @@
         Hubungi Kami
       </a>
       <a href="/faq" class="px-8 py-3.5 glass text-white font-medium rounded-lg hover:bg-white/20 transition text-sm">
-        Lihat FAQ
+        Pusat Bantuan
       </a>
     </div>
   </div>
