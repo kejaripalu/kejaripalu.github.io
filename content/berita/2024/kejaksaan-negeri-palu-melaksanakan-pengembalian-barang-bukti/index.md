@@ -1,0 +1,14 @@
+---
+title: "Kejaksaan Negeri Palu Melaksanakan Pengembalian Barang Bukti"
+date: 2024-07-30
+categories: 
+  - "kegiatan"
+tags: 
+  - "kejaripalu"
+  - "pb3r"
+coverImage: "Screenshot-17.png"
+---
+
+Kejaksaan Negeri Palu melalui seksi PB3R melaksanakan pengembalian barang bukti terdakwa atas nama YW yang bersah melakukan tindak pidana pencurian yang melanggar Pasal 363 ayat (1) ke 3 KUHP. Adapun barang bukti yang dikembalikan adalah: 1. 35 (tiga puluh lima) selving rak set single pinggir/wali Uk 170 set. 2. 6 (enam) keranjang plug in.
+
+Dikembalikan kepada PT. Midi Utama Indonesia.

@@ -43,3 +43,12 @@ title = "Kejaksaan Negeri Palu"
 
 [pagination]
   pagerSize = 9
+
+[permalinks]
+  [permalinks.page]
+    berita = "/:year/:month/:slug/"
+
+# Tampilkan semua halaman termasuk section bertingkat
+[cascade]
+  [cascade._target]
+    kind = "page"
