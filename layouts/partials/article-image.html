@@ -1,0 +1,53 @@
+{{/* layouts/partials/article-image.html */}}
+{{/* Mengembalikan URL gambar dari berbagai sumber */}}
+
+{{ $img := "" }}
+
+{{/* Prioritas 1: Page Bundle — coba subfolder images/ dulu */}}
+{{ with .Resources.GetMatch "images/*" }}
+  {{ $img = .RelPermalink }}
+{{ end }}
+
+{{/* Prioritas 1b: Page Bundle — coba root bundle (*.jpg, *.png, *.jpeg, *.webp) */}}
+{{ if not $img }}
+  {{ with .Resources.GetMatch "*.{jpg,jpeg,png,webp,gif}" }}
+    {{ $img = .RelPermalink }}
+  {{ end }}
+{{ end }}
+
+{{/* Prioritas 2: Front matter "coverImage" (field paling umum di konten ini) */}}
+{{ if not $img }}
+  {{ with .Params.coverImage }}
+    {{ $res := $.Resources.GetMatch . }}
+    {{ if $res }}
+      {{ $img = $res.RelPermalink }}
+    {{ else if or (hasPrefix . "http") (hasPrefix . "/") }}
+      {{ $img = . }}
+    {{ else }}
+      {{ $img = printf "%s%s" $.RelPermalink . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Prioritas 3: Front matter "image" */}}
+{{ if not $img }}
+  {{ with .Params.image }}
+    {{ $res := $.Resources.GetMatch . }}
+    {{ if $res }}
+      {{ $img = $res.RelPermalink }}
+    {{ else if or (hasPrefix . "http") (hasPrefix . "/") }}
+      {{ $img = . }}
+    {{ else }}
+      {{ $img = printf "%s%s" $.RelPermalink . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Prioritas 4: Front matter "featured_image" */}}
+{{ if not $img }}
+  {{ with .Params.featured_image }}
+    {{ $img = . }}
+  {{ end }}
+{{ end }}
+
+{{ return $img }}
