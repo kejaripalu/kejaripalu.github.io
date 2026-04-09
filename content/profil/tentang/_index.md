@@ -1,6 +1,7 @@
 ---
-title: "Profil Kejaksaan"
+title: "Tentang Kejaksaan"
 description: "Mengenal lebih dekat Kejaksaan Republik Indonesia."
+date: "2026-03-21T07:28:17+08:00"
 ---
 
 ## Tinjauan Umum
