@@ -1,14 +1,15 @@
 ---
 title: "MoU Kejari Palu dengan Pemkot Palu"
 date: 2017-02-10
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "datun"
   - "jpn"
   - "mou"
 coverImage: "WhatsApp-Image-2017-02-10-at-03.31.53-1.jpeg"
+summary: "Kejaksaan Negeri Palu yang diwakili oleh Kepala Seksi Perdata dan Tata Usaha Negara (Datun) I Ketut Sudiarta menanda tangani MoU / Nota Kesepahaman Bersama dengan Pemerintah Kota Palu diantaranya dengan Walikota Palu, Rumah Sakit Umum Anutapura Palu, Dinas Pendidikan dan Kebudayaan Kota Palu dan Badan Pendapatan Kota Palu."
 ---
 
 **Palu -**Kejaksaan Negeri Palu yang diwakili oleh Kepala Seksi Perdata dan Tata Usaha Negara (Datun) I Ketut Sudiarta menanda tangani MoU / Nota Kesepahaman Bersama dengan Pemerintah Kota Palu diantaranya dengan Walikota Palu, Rumah Sakit Umum Anutapura Palu, Dinas Pendidikan dan Kebudayaan Kota Palu dan Badan Pendapatan Kota Palu. Acara penadatanganan MoU tersebut merupakan rangkaian dari acara pelatikan Pejabat di Lingkungan Pemkot Palu.

@@ -1,9 +1,10 @@
 ---
 title: "UPACARA HUT RI KE-77 KOTA PALU"
 date: 2022-08-17
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-18-at-09.44.46-1.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu menghadiri Upacara Pengibaran Bendera Merah Putih memperingati HUT ke-77 Republik Indonesia yang diselenggarakan Pemkot Palu pada Rabu, 17 Agustus 2022, di halaman kantor Wali Kota Palu."
 ---
 
 Palu - Kepala Kejaksaan Negeri Palu menghadiri Upacara Pengibaran Bendera Merah Putih memperingati HUT ke-77 Republik Indonesia yang diselenggarakan Pemkot Palu pada Rabu, 17 Agustus 2022, di halaman kantor Wali Kota Palu.

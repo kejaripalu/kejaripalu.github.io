@@ -1,11 +1,12 @@
 ---
 title: "1480 Ball Pres Pakaian Bekas Dimusnahkan"
 date: 2018-04-15
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
   - "eksekusi"
 coverImage: "WhatsApp-Image-2018-04-13-at-13.53.13.jpeg"
+summary: "Sebanyak 1480 ballpres barang bukti tindak pidana kepabeanan yang terdiri dari sepatu dan pakaian bekas dimusnahkan tim dari Eksekutor Kejaksaan Negeri (Kejari) Palu dengan cara dibakar, di KM 28, Desa Labuan, Kecamatan Labuan, Kabupaten Donggala, Kamis (12/4)."
 ---
 
 **Palu -** Sebanyak 1480 ballpres barang bukti tindak pidana kepabeanan yang terdiri dari sepatu dan pakaian bekas dimusnahkan tim dari Eksekutor Kejaksaan Negeri (Kejari) Palu dengan cara dibakar, di KM 28, Desa Labuan, Kecamatan Labuan, Kabupaten Donggala, Kamis (12/4).

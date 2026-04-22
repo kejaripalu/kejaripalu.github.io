@@ -1,12 +1,12 @@
 ---
 title: "Kajari Palu menjadi Peserta Terbaik pada Diklat PIM II"
 date: 2018-07-07
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
 tags: 
   - "diklat"
 coverImage: "WhatsApp-Image-2018-07-07-at-09.46.53.jpeg"
+summary: "Kejaksaan Negeri Palu menjadi Peserta Terbaik pada Pelatihan Kepemimpinan Tingkat II Angkatan II Tahun 2018"
 ---
 
 **Makassar** - Kepala Kejaksaan Negeri Palu menjadi PesertaTerbaik pada Pelatihan Kepemimpinan Tingkat II Angkatan II Tahun 2018, yang diselenggarakan oleh Pusat Kajian dan Pendidikan dan Pelatihan Aparatur II Lembaga Administrasi Negara dari tanggal 20 Februari s/d 4 Juli 2018 di Makassar dengan Prestasi Terbaik Peringkat I dari 60 Peserta.

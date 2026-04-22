@@ -1,12 +1,13 @@
 ---
 title: "Pembukaan POR HBA ke 57 Kejaksaan Tinggi Sulawesi Tengah"
 date: 2017-07-14
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "hba"
   - "por"
 coverImage: "tes-086.jpg"
+summary: "Kepala Kejaksaan Sulawesi Tengah SAMPE TUAH,SH didampingi Wakajati,SH, para Asisten, Kabag TU, Kajari Palu, Kajari Donggala, Kajari Parimo, Kajari Poso dan para Koordinator serta seluruh pegawai Kejaksaan Tinggi Sulteng mengikuti upacara pembukaan POR HBA Ke 57 dihalaman kantor Kejati Sulteng pada Kamis tanggal 13 Juli 2017."
 ---
 
 **Palu -**Kepala Kejaksaan Sulawesi Tengah SAMPE TUAH,SH didampingi Wakajati,SH, para Asisten, Kabag TU, Kajari Palu, Kajari Donggala, Kajari Parimo, Kajari Poso dan para Koordinator serta seluruh pegawai Kejaksaan Tinggi Sulteng mengikuti upacara pembukaan POR HBA Ke 57 dihalaman kantor Kejati Sulteng pada Kamis tanggal 13 Juli 2017.

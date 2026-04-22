@@ -1,9 +1,10 @@
 ---
 title: "Peringatan Hari Raya Idul Adha 1438 H di Kejaksaan Negeri Palu"
 date: 2017-09-04
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2017-09-01-at-13.06.30.jpeg"
+summary: "Pada hari Jumat tanggal 01 September 2017 sekira pukul 10.00 Wita, dalam rangka perayaan Hari Raya Idul Adha 1438 H tahun 2017, Kejaksaan Negeri Palu melaksanakan ibadah penyembelihan hewan kurban sebanyak 2 ekor sapi yang dipimpin langsung oleh Ketua Panitia Qurban Kejaksaan Negeri Palu Kasi Pidsus, EVRIFEL, SH diikuti Kepala Sub Bagian Pembinaan beserta para Kepala Seksi, panitia penyembelihan hewan kurban dan seluruh pegawai Kejaksaan Negeri Palu."
 ---
 
 **Palu -**Pada hari Jumat tanggal 01 September 2017 sekira pukul 10.00 Wita, dalam rangka perayaan Hari Raya Idul Adha 1438 H tahun 2017, Kejaksaan Negeri Palu melaksanakan ibadah penyembelihan hewan kurban sebanyak 2 ekor sapi yang dipimpin langsung oleh Ketua Panitia Qurban Kejaksaan Negeri Palu Kasi Pidsus, EVRIFEL, SH diikuti Kepala Sub Bagian Pembinaan beserta para Kepala Seksi, panitia penyembelihan hewan kurban dan seluruh pegawai Kejaksaan Negeri Palu.

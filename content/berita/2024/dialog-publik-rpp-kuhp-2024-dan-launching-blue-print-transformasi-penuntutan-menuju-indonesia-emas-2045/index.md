@@ -1,12 +1,13 @@
 ---
 title: "Dialog Publik RPP KUHP 2024 dan Launching Blue Print Transformasi Penuntutan Menuju Indonesia Emas 2045"
 date: 2024-08-01
-categories: 
-  - "berita-kejaksaan"
+kategori: 
+  - "Berita"
 tags: 
-  - "kejaripalu"
-  - "palu"
+  - "Kejari Palu"
+  - "Palu"
 coverImage: "Screenshot-18.png"
+summary: "Kepala Kejaksaan Negeri Palu didampingi para Kepala Seksi mengikuti kegiatan zoom meeting 'Dialog Publik RPP KUHP 2024 dan Launching Blue Print Transformasi Penuntutan Menuju Indonesia Emas 2045'."
 ---
 
 Kepala Kejaksaan Negeri Palu didampingi para Kepala Seksi mengikuti kegiatan zoom meeting "Dialog Publik RPP KUHP 2024 dan Launching Blue Print Transformasi Penuntutan Menuju Indonesia Emas 2045".

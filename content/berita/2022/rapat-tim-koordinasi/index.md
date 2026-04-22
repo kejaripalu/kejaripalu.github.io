@@ -1,9 +1,10 @@
 ---
 title: "RAPAT TIM KOORDINASI BIDANG INTEIJEN"
 date: 2022-10-07
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "PHOTO-2022-10-12-20-21-58.jpg"
+summary: "Kegiatan Rapat Koordinasi Pengawasan Aliran Kepercayaan dan Keagamaan (PAKEM) Tahun 2022 di Kantor Kejaksaan Negeri Palu pada hari Jumat tanggal 07 Oktober 2022 mulai pukul 10.15 WITA."
 ---
 
 **Palu** - Kegiatan Rapat Koordinasi Pengawasan Aliran Kepercayaan dan Keagamaan (PAKEM) Tahun 2022 di Kantor Kejaksaan Negeri Palu pada hari Jumat tanggal 07 Oktober 2022 mulai pukul 10.15 WITA.

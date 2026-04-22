@@ -1,9 +1,10 @@
 ---
 title: "Kejaksaan Negeri Palu melalui Kasi Datun Ikut Kawal Proses Verifikasi Huntap Duyu II"
 date: 2025-11-17
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 coverImage: "WhatsApp-Image-2025-11-11-at-1.04.40-PM-scaled.jpeg"
+summary: "Kejaksaan Negeri Palu melalui Kepala Seksi Perdata dan Tata Usaha Negara, **Alkaf, S.H., M.H.**, menghadiri kegiatan _Sosialisasi Pelaksanaan Verifikasi dan Validasi Data Warga Terdampak Bencana (WTB) Calon Penerima Bantuan Hunian Tetap Duyu II_ yang bertempat di Kantor Camat Palu Selatan. Kehadiran perwakilan kejaksaan ini merupakan bagian dari dukungan penegakan tertib administrasi dan kepastian hukum dalam proses penyaluran bantuan hunian bagi warga terdampak bencana."
 ---
 
 Palu - Kejaksaan Negeri Palu melalui Kepala Seksi Perdata dan Tata Usaha Negara, **Alkaf, S.H., M.H.**, menghadiri kegiatan _Sosialisasi Pelaksanaan Verifikasi dan Validasi Data Warga Terdampak Bencana (WTB) Calon Penerima Bantuan Hunian Tetap Duyu II_ yang bertempat di Kantor Camat Palu Selatan. Kehadiran perwakilan kejaksaan ini merupakan bagian dari dukungan penegakan tertib administrasi dan kepastian hukum dalam proses penyaluran bantuan hunian bagi warga terdampak bencana.

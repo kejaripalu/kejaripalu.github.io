@@ -1,13 +1,14 @@
 ---
 title: "Kejari Palu melaksanakan kegiatan Jaksa Menyapa di Tribun Palu"
 date: 2025-01-22
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "jaksa-menyapa"
   - "kejaksaan"
 coverImage: "Screenshot-2025-04-10-102521.png"
+summary: "Kejari Palu melaksanakan kegiatan Jaksa Menyapa mengusung tema diskusi 'Pemulihan Aset dan Pengelolaan Barang Bukti oleh Kejaksaan Negeri Palu'"
 ---
 
 Palu - Kepala Seksi Intelijen bersama Kepala Seksi Pemulihan Aset dan Pengelolaan Barang Bukti melaksanakan kegiatan Jaksa Menyapa mengusung tema diskusi "Pemulihan Aset dan Pengelolaan Barang Bukti oleh Kejaksaan Negeri Palu" (21/01/2025).

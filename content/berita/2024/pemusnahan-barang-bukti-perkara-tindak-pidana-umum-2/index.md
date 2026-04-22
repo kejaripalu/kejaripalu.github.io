@@ -1,12 +1,13 @@
 ---
 title: "Pemusnahan Barang Bukti Perkara Tindak Pidana Umum"
 date: 2024-03-01
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
   - "barang-bukti"
   - "pemusnahan"
 coverImage: "5.jpg"
+summary: "Kejaksaan Negeri Palu melakukan pemusnahan barang bukti perkara tindak pidana umum yang disaksikan oleh Kepala Kejaksaan Negeri Palu, Ketua Pengadilan Negeri Palu, Kepala Kepolisian Resor Kota Palu, Ketua DPRD Kota Palu, Dandim 1306 Kota Palu, Kepala BNN Kota Palu, serta para Kasi dan Kasubag serta seluruh jaksa pada Kejaksaan Negeri Palu (29/02/2024)."
 ---
 
 **Palu -** Kejaksaan Negeri Palu melakukan pemusnahan barang bukti perkara tindak pidana umum yang disaksikan oleh Kepala Kejaksaan Negeri Palu, Ketua Pengadilan Negeri Palu, Kepala Kepolisian Resor Kota Palu, Ketua DPRD Kota Palu, Dandim 1306 Kota Palu, Kepala BNN Kota Palu, serta para Kasi dan Kasubag serta seluruh jaksa pada Kejaksaan Negeri Palu (29/02/2024).

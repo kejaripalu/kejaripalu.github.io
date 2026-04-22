@@ -1,12 +1,13 @@
 ---
 title: "Rapat Koordinasi Tim Pengawasan Aliran Kepercayaan dan Keagamaan Masyarakat Kota Palu Tahun 2025"
 date: 2025-02-14
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "pakem"
 coverImage: "Screenshot-2025-04-10-111716.png"
+summary: "Rapat koordinasi Tim Pengawasan Aliran Kepercayaan dan Keagamaan Masyarakat Kota Palu Tahun 2025"
 ---
 
 Palu - Kepala Kejaksaan Negeri Palu didampingi Plh. Kepala Seksi Intelijen memimpin rapat koordinasi Tim Pengawasan Aliran Kepercayaan dan Keagamaan Masyarakat Kota Palu Tahun 2025.

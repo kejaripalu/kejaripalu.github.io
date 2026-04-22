@@ -1,9 +1,10 @@
 ---
 title: "RAPAT KOORDINASI PENGENDALIAN INFLASI DAERAH"
 date: 2022-08-31
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-10-12-at-21.14.04.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu menghadiri Undangan Rapat Koordinasi Pengendalian Inflasi Daerah secara virtual bersama Pemerintah Kota Palu dipimpin langsung oleh dr. Reny A. Lamadjido,Sp. PK.,M.Kes dan dihadiri unsur Forkopimda,kepala Desa dan Lurah Se-Sulawesi Tengah, Selasa (30/10/2022)"
 ---
 
 **Palu -** Kepala Kejaksaan Negeri Palu menghadiri Undangan Rapat Koordinasi Pengendalian Inflasi Daerah secara virtual bersama Pemerintah Kota Palu dipimpin langsung oleh dr. Reny A. Lamadjido,Sp. PK.,M.Kes dan dihadiri unsur Forkopimda,kepala Desa dan Lurah Se-Sulawesi Tengah, Selasa (30/10/2022)

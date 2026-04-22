@@ -1,11 +1,12 @@
 ---
 title: "Tim Kejaksaan Agung dan Kejari Palu Bekuk Buronan Tipikor"
 date: 2018-05-16
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "eksekusi"
 coverImage: "WhatsApp-Image-2018-05-16-at-05.222.31.jpeg"
+summary: "Terpidana korupsi pengadaan alat kesehatan Kota Palu tahun anggaran 2012 berhasil tertangkap oleh Tim Intel Kejaksaan Agung (Kejagung) RI bersama dengan Tim Kejaksaan Negeri Palu."
 ---
 
 **Palu** \- Terpidana korupsi pengadaan alat kesehatan Kota Palu tahun anggaran 2012 berhasil tertangkap oleh Tim Intel Kejaksaan Agung (Kejagung) RI bersama dengan Tim Kejaksaan Negeri Palu.

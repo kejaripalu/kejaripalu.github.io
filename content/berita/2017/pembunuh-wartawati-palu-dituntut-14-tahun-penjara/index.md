@@ -1,11 +1,12 @@
 ---
 title: "Pembunuh Wartawati Palu Dituntut 14 Tahun Penjara"
 date: 2017-06-22
-categories: 
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "penuntutan"
 coverImage: "IMG.jpg"
+summary: "Jaksa Penuntut Umum (JPU) Pengadilan Negeri (PN) Palu, menuntut Rinus Yohanes Sandipu, terdakwa dalam kasus pembunuhan wartawati di ibu kota Provinsi Sulawesi Tengah itu dengan 14 tahun penjara."
 ---
 
 **Palu**, (antarasulteng.com) - Jaksa Penuntut Umum (JPU) Pengadilan Negeri (PN) Palu, menuntut Rinus Yohanes Sandipu, terdakwa dalam kasus pembunuhan wartawati di ibu kota Provinsi Sulawesi Tengah itu dengan 14 tahun penjara.

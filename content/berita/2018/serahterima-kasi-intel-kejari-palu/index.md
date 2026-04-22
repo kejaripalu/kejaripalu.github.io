@@ -1,12 +1,12 @@
 ---
 title: "Serahterima Kasi Intel Kejari Palu"
 date: 2018-08-21
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "sertijab"
 coverImage: "kastel.jpeg"
+summary: "Kepala Kejaksaan Negeri (Kajari) Palu, Subeno memimpin pelantikan, sekaligus serah terima jabatan (sertijab) Kepala Seksi (Kasi) Intelijen, dari Elianus Yusak Tomasowa, S.H., M.H kepada kepada Agus S.H, di Aula Kantor Kejari, Senin (20/08)."
 ---
 
 PALU – Kepala Kejaksaan Negeri (Kajari) Palu, Subeno memimpin pelantikan, sekaligus serah terima jabatan (sertijab) Kepala Seksi (Kasi) Intelijen, dari Elianus Yusak Tomasowa, S.H., M.H kepada kepada Agus S.H, di Aula Kantor Kejari, Senin (20/08).

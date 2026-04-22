@@ -1,10 +1,10 @@
 ---
 title: "Kejari Palu dan 2 Kejari di Sulteng melaksanakan Restorative Justice"
 date: 2021-11-26
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2021-12-02-at-11.48.54.jpeg"
+summary: "Tiga Kejaksaan Negeri yakni Kejari Palu, Kejari Poso dan Kejari Banggai menghentikan penuntutan setelah permohonan penghentian penuntutan disetujui oleh Jaksa Agung Muda Bidang Tindak Pidana Umum Pada Kejaksaan Agung RI Fadhil Zumhana dalam ekspose yang juga diikuti langsung oleh Kepala Kejaksaan Tinggi Sulawesi Tengah Jacob Hendrik Pattipeilohy, SH., MH."
 ---
 
 PALU, Kabar Selebes – Tiga Kejaksaan Negeri yakni Kejari Palu, Kejari Poso dan Kejari Banggai menghentikan penuntutan setelah permohonan penghentian penuntutan disetujui oleh Jaksa Agung Muda Bidang Tindak Pidana Umum Pada Kejaksaan Agung RI Fadhil Zumhana dalam ekspose yang juga diikuti langsung oleh Kepala Kejaksaan Tinggi Sulawesi Tengah Jacob Hendrik Pattipeilohy, SH., MH.

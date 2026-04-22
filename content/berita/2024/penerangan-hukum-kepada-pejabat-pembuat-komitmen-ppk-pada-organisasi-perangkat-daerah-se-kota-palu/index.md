@@ -1,14 +1,15 @@
 ---
 title: "Penerangan Hukum kepada Pejabat Pembuat Komitmen (PPK) pada Organisasi Perangkat Daerah Se-Kota Palu"
 date: 2024-08-07
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "intelijenkejaripalu"
   - "kejaripalu"
   - "penkum"
 coverImage: "Screenshot-20.png"
+summary: "Bidang Intelijen Kejaksaan Negeri Palu melaksanakan kegiatan Penerangan Hukum kepada Pejabat Pembuat Komitmen (PPK) pada Organisasi Perangkat Daerah Se-Kota Palu."
 ---
 
 Bidang Intelijen Kejaksaan Negeri Palu melaksanakan kegiatan Penerangan Hukum kepada Pejabat Pembuat Komitmen (PPK) pada Organisasi Perangkat Daerah Se-Kota Palu. Kegiatan penerangan hukum yang dilaksanakan oleh Kejaksaan bertujuan untuk memberikan pemahaman mendalam kepada pejabat-pejabat pembuat komitmen tentang peran penting Kejaksaan dalam pencegahan korupsi. Kegiatan ini dilaksanakan untuk memastikan bahwa para PPK memiliki pengetahuan yang memadai mengenai regulasi hukum dan tata kelola yang baik guna mencegah praktik korupsi di lingkungan kerja masing-masing.

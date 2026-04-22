@@ -1,9 +1,10 @@
 ---
 title: "PENGUCAPAN SUMPAH PENGGANTI KETUA DPRD KOTA PALU"
 date: 2022-08-23
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-23-at-11.34.00.jpeg"
+summary: "Dewan Perwakilan Rakyat Daerah Kota Palu melaksanakan Rapat paripurna dalam rangka pengucapan sumpah pengganti Ketua DPRD Kota Palu Sisa Masa Jabatan Tahun 2019-2024 di Ruang Sidang Utama DPRD Palu, Selasa (23/08/2022)."
 ---
 
 Palu - Dewan Perwakilan Rakyat Daerah Kota Palu melaksanakan Rapat paripurna dalam rangka pengucapan sumpah pengganti Ketua DPRD Kota Palu Sisa Masa Jabatan Tahun 2019-2024 di Ruang Sidang Utama DPRD Palu, Selasa (23/08/2022).

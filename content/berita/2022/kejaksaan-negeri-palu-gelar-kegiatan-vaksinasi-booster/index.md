@@ -1,9 +1,10 @@
 ---
 title: "KEJAKSAAN NEGERI PALU GELAR KEGIATAN VAKSINASI BOOSTER"
 date: 2022-01-26
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 coverImage: "WhatsApp-Image-2022-01-28-at-08.44.40.jpeg"
+summary: "Guna melindungi kerja aparat penegak hukum dari bahaya terpapar Covid 19, Kejaksaan Negeri Palu, Rabu, (26/1/2022) menggelar vaksinasi booster atau dosis lanjutan."
 ---
 
 **Palu** - Guna melindungi kerja aparat penegak hukum dari bahaya terpapar Covid 19, Kejaksaan Negeri Palu, Rabu, (26/1/2022) menggelar vaksinasi booster atau dosis lanjutan.

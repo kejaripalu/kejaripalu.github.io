@@ -1,10 +1,13 @@
 ---
 title: "Kepala Seksi Intelijen menjadi narasumber untuk Kepala Sekolah SD dan SMP Negeri di Kota Palu"
 date: 2025-02-20
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
+tags: 
+  - "kejaripalu"
 coverImage: "Screenshot-2025-04-10-112739.png"
+summary: "Kepala Seksi Intelijen menjadi narasumber pada kegiatan Penerangan Hukum kepada para Kepala Sekolah SD dan SMP Negeri di Kota Palu terkait pencegahan penyimpangan pengelolaan dana BOS dan PIP (20/02/2025)."
 ---
 
 Palu - Kepala Seksi Intelijen menjadi narasumber pada kegiatan Penerangan Hukum kepada para Kepala Sekolah SD dan SMP Negeri di Kota Palu terkait pencegahan penyimpangan pengelolaan dana BOS dan PIP (20/02/2025).

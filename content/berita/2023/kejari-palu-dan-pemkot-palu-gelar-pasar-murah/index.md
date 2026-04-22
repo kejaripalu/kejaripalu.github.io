@@ -1,13 +1,13 @@
 ---
 title: "Kejari Palu dan Pemkot Palu gelar Pasar Murah"
 date: 2023-03-17
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
 tags: 
   - "kantor"
   - "kejaksaan"
 coverImage: "hqdefault.jpg"
+summary: "Kejaksaan Negeri Palu bersama Dinas Perindustrian dan Perdagangan Kota Palu resmi membuka Gebyar Pasar Murah yang diikuti oleh sejumlah pegiat usaha dan IKM binaan Disperindag Kota Palu."
 ---
 
 **Palu -** Kejaksaan Negeri Palu bersama Dinas Perindustrian dan Perdagangan Kota Palu resmi membuka Gebyar Pasar Murah yang diikuti oleh sejumlah pegiat usaha dan IKM binaan Disperindag Kota Palu.

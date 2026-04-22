@@ -1,9 +1,11 @@
 ---
 title: "Kepala Kejaksaan Negeri Palu menghadiri Undangan Pengukuhan Status Polres Palu menjadi Polresta"
 date: 2022-04-20
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-04-25-at-13.13.15.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu yang diwakili oleh Bapak Sugandhi,SH menghadiri Undangan Pengukuhan Kenaikan Tipe Polres palu menjadi Polresta Palu, Sekaligus Penandatanganan Berita Acara dan Penandatanganan Prasasti yang Berlangsung di Gedung Totabelo Polres Palu"
 ---
 
 **Palu -** Kepala Kejaksaan Negeri Palu yang diwakili oleh Bapak Sugandhi,SH menghadiri Undangan Pengukuhan Kenaikan Tipe Polres palu menjadi Polresta Palu, Sekaligus Penandatanganan Berita Acara dan Penandatanganan Prasasti yang Berlangsung di Gedung Totabelo Polres Palu

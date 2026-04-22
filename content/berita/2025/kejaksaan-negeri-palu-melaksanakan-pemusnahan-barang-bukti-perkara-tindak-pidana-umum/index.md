@@ -1,12 +1,13 @@
 ---
 title: "Kejaksaan Negeri Palu melaksanakan pemusnahan Barang Bukti Perkara Tindak Pidana Umum"
 date: 2025-02-26
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "pemusnahan-barang-bukti"
 coverImage: "Screenshot-2025-04-10-115031.png"
+summary: "Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti perkara tindak pidana umum yang disaksikan oleh Kepala Kejaksaan Negeri Palu, Perwakilan Walikota Palu, Ketua DPRD Kota Palu, Kepala Kepolisian Resor Kota Palu, Perwakilan Dandim 1306 Kota Palu, Kepala Rutan Kelas IIA Palu, Kepala BNN Kota Palu, para Kasi dan Kasubagbin serta seluruh jaksa pada Kejaksaan Negeri Palu."
 ---
 
 Palu - Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti perkara tindak pidana umum yang disaksikan oleh Kepala Kejaksaan Negeri Palu, Perwakilan Walikota Palu, Ketua DPRD Kota Palu, Kepala Kepolisian Resor Kota Palu, Perwakilan Dandim 1306 Kota Palu, Kepala Rutan Kelas IIA Palu, Kepala BNN Kota Palu, para Kasi dan Kasubagbin serta seluruh jaksa pada Kejaksaan Negeri Palu. Pemusnahan barang bukti tersebut dilakukan berdasarkan putusan pengadilan dan surat perintah Kepala Kejaksaan Negeri Palu nomor : PRINT-212/P.2.10/Enz.3/02/2025 tanggal 24 Februari 2025.

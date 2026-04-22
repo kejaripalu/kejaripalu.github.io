@@ -1,9 +1,13 @@
 ---
 title: "Kejari Palu melaksanakan layanan “Torang Bisa”, pengantaran barang bukti 1 unit motor"
 date: 2025-02-05
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
+tags: 
+  - "kejaripalu"
+  - "torangbisa"
+summary: "Kejari Palu melaksanakan layanan “Torang Bisa” Topokeni Barang Bukti Sampai Rumah untuk pengantaran barang bukti 1 unit motor dari perkara yang sudah inkracht kepada pemilik."
 coverImage: "Screenshot-2025-04-10-110726.png"
 ---
 
@@ -13,12 +17,4 @@ Layanan pengantaran barang bukti perkara kepada pemilik oleh Kejaksaan Negeri Pa
 
 Jika dokumen lengkap dan valid, maka petugas akan memberikan persetujuan untuk pengembalian barang bukti. Setelah permohonan disetujui, petugas bersama pemilik melakukan pengecekan kondisi barang bukti untuk memastikan bahwa barang tersebut dalam keadaan yang baik dan sesuai dengan yang tercatat. Petugas akan mengirimkan barang bukti langsung ke alamat pemilik dan akan menyerahkan tanda terima sebagai bukti bahwa barang telah diterima dengan baik.
 
->  
-> 
-> View this post on Instagram
-> 
->  
-> 
-> [A post shared by KEJAKSAAN NEGERI PALU (@kejaripalu)](https://www.instagram.com/reel/DFrZ02OTzSh/?utm_source=ig_embed&utm_campaign=loading)
-
-<script async src="//www.instagram.com/embed.js"></script>
+{{< instagram "DFrZ02OTzSh" >}}

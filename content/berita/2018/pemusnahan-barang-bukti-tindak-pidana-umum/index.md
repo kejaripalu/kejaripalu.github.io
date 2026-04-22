@@ -1,14 +1,14 @@
 ---
 title: "Pemusnahan Barang Bukti Tindak Pidana Umum"
 date: 2018-01-26
-categories: 
-  - "berita"
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "eksekusi"
   - "pidum"
 coverImage: "upload.jpg"
+summary: "Kejaksaan Negeri Palu melaksanakan pemusnahan sejumlah barang bukti yang telah berkekuatan hukum tetap (inkracht van gewijsde) Kamis, 25 Januari 2018 di halaman Kantor Kejaksaan Negeri Palu."
 ---
 
 **Palu -**Kejaksaan Negeri Palu melaksanakan pemusnahan sejumlah barang bukti yang telah berkekuatan hukum tetap (inkracht van gewijsde) Kamis, 25 Januari 2018 di halaman Kantor Kejaksaan Negeri Palu.

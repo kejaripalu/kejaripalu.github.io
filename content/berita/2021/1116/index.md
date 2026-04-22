@@ -1,10 +1,10 @@
 ---
 title: "MoU BPJS Ketenagakerjaan  dengan Kejaksaan Negeri Palu"
 date: 2021-09-14
-categories: 
-  - "berita"
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "1.jpg"
+summary: "Kepala Kejaksaan Negeri Palu menghadiri Acara Penandatanganan Kesepakatan Bersama Antara BPJS Ketenagakerjaan dengan Kejaksaan Negeri Palu."
 ---
 
 Kepala Kejaksaan Negeri Palu menghadiri Acara Penandatanganan Kesepakatan Bersama Antara BPJS Ketenagakerjaan dengan Kejaksaan Negeri Palu.

@@ -1,10 +1,10 @@
 ---
 title: "Trauma Healing untuk Anak SDN Balaroa Korban Gempa Palu Digelar di Tenda"
 date: 2019-01-21
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 coverImage: "1.jpg"
+summary: "Sekitar 100 anak korban korban gempa bumi, tsunami, dan likuefaksi di Kota Palu, Sulawesi Tengah, mengikuti kegiatan trauma healing."
 ---
 
 **Palu -** Sekitar 100 anak korban korban gempa bumi, tsunami, dan likuefaksi di Kota Palu, Sulawesi Tengah, mengikuti kegiatan trauma healing. Kegiatan yang digelar di tenda Sekolah Sementara SDN Inpres Balaroa, Palu, pada 21 Januari 2019, meliputi pemberian games dan hadiah yang digelar oleh Kejaksaan Negeri Palu bekerja sama dengan Dinas Sosial Kota Palu.

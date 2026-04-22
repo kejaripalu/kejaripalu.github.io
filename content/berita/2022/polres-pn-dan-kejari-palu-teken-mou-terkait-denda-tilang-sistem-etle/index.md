@@ -1,9 +1,10 @@
 ---
 title: "Polres, PN dan Kejari Palu Teken MoU Terkait Denda Tilang Sistem ETLE"
 date: 2022-03-07
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "img_20220307_wa0030.jpg"
+summary: "Polres Palu bersama pengadilan dan kejaksaan negeri melakukan penandatanganan nota kesepahaman atau Memorandum of Understanding (MoU) terkait keputusan denda tilang dalam sistem Electronik Traffic Law Enforcement (ETLE) di Aula Rupatama polres setempat, Senin (7/3/2022)."
 ---
 
 **PALU** – Polres Palu bersama pengadilan dan kejaksaan negeri melakukan penandatanganan nota kesepahaman atau _Memorandum of Understanding_ (MoU) terkait keputusan denda tilang dalam sistem _Electronik Traffic Law Enforcement_ (ETLE) di Aula Rupatama polres setempat, Senin (7/3/2022).

@@ -1,9 +1,10 @@
 ---
 title: "Ratusan Pelaku Penjarahan di limpahkan ke Kejari Palu"
 date: 2018-12-08
-categories: 
-  - "media-massa"
+kategori: 
+  - "Berita"
 coverImage: "IMG.jpg"
+summary: "Kasus penjarahan yang pascagempa dan tsunami di Palu akhir September lalu segera berlanjut ke meja kejaksaan. Penyidik Sat Reskrim Polres Palu telah melakukan tahap dua atau pelimpahan berkas tersangka berserta barang bukti ke pihak Kejaksaan Negeri Palu untuk disidangkan."
 ---
 
 **JawaPos.com -** Kasus penjarahan yang pascagempa dan tsunami di Palu akhir September lalu segera berlanjut ke meja kejaksaan. Penyidik Sat Reskrim Polres Palu telah melakukan tahap dua atau pelimpahan berkas tersangka berserta barang bukti ke pihak Kejaksaan Negeri Palu untuk disidangkan.

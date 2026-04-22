@@ -1,9 +1,10 @@
 ---
 title: "TIM KEJARI PALU BERHASIL MENGAMANKAN KASUS TINDAK PIDANA PENIPUAN"
 date: 2022-05-25
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "eksekusi_terpidana.jpg"
+summary: "Tim Intelijen Kejaksaan Negeri Palu bersama Jaksa Eksekutor Kejari Palu, melakukan penangkapan/pengamanan terhadap terpidana atas nama Rasta Ndobe SH. Terpidana melanggar Pasal 378 KUHP."
 ---
 
 PALU - Selasa, (24/5/2022), Tim Intelijen Kejaksaan Negeri Palu bersama Jaksa Eksekutor Kejari Palu, melakukan  penangkapan/pengamanan terhadap terpidana atas nama Rasta Ndobe SH. Terpidana melanggar Pasal 378 KUHP.

@@ -1,11 +1,13 @@
 ---
 title: "PENYELIDIKAN DUGAAN TINDAK PIDANA KORUPSI PEKERJAAN PEMBANGUNAN SUMUR ARTETIS / PEMBANGUNAN SISTEM PENYEDIAAN AIR BERSIH DI KELURAHAN TONDO KOTA PALU TA 2019"
 date: 2023-06-07
-categories: 
-  - "siaran-pers"
+kategori: 
+  - "Siaran Pers"
 tags: 
-  - "siaran-pers"
+  - "Kejari Palu"
+  - "Kegiatan"
 coverImage: "IMG.jpg"
+summary: "Tim Penyelidik Intelijen Kejaksaan Negeri Palu telah melaksanakan penyelidikan terhadap dugaan adanya ketidaksesuaian Spesifikasi pada Pekerjaan Pembangunan Sumur Artesis / Pembangunan Sistem Penyediaan Air Bersih Di Kelurahan Tondo Kota Palu TA 2019."
 ---
 
 1. Bahwa Tim Penyelidik Intelijen Kejaksaan Negeri Palu telah melaksanakan penyelidikan terhadap dugaan adanya ketidaksesuaian Spesifikasi pada Pekerjaan Pembangunan Sumur Artesis / Pembangunan Sistem Penyediaan Air Bersih Di Kelurahan Tondo Kota Palu TA 2019.

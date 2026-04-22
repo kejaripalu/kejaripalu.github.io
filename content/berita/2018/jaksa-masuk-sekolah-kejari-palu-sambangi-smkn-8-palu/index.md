@@ -1,12 +1,13 @@
 ---
 title: "Jaksa Masuk Sekolah Kejari Palu sambangi SMKN 8 Palu"
 date: 2018-05-08
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
   - "jms"
   - "penkum"
 coverImage: "WhatsApp-Image-2018-05-08-at-11.59.23.jpeg"
+summary: "Tim Jaksa Masuk Sekolah (JMS) Kejari Palu sambangi SMKN 8 Palu (8/5/2018) dalam rangka melaksanakan kegiatan yang menjadi salah satu program Kejaksaan dalam rangka penanaman sejak dini kesadaran hukum pada pelajar."
 ---
 
 **Palu -** Tim Jaksa Masuk Sekolah (JMS) Kejari Palu sambangi SMKN 8 Palu (8/5/2018) dalam rangka melaksanakan kegiatan yang menjadi salah satu program Kejaksaan dalam rangka penanaman sejak dini kesadaran hukum pada pelajar. Dipilihnya SMKN 8 Palu karena kegiatan seperti ini baru pertama kali diadakan pada sekolah tersebut.

@@ -1,9 +1,10 @@
 ---
 title: "PUTUSAN DENDA TILANG TGL 19 APRIL 2020"
 date: 2020-04-20
-categories: 
-  - "pengumuman"
+kategori: 
+  - "Pengumuman"
 coverImage: "IMG.jpg"
+summary: "Lampiran Putusan Denda Tilang Wilayah Kejaksaan Negeri Palu berdasarkan putusan Pengadilan Negeri Palu tanggal 17 April 2020"
 ---
 
 Lampiran Putusan Denda Tilang Wilayah Kejaksaan Negeri Palu berdasarkan putusan Pengadilan Negeri Palu tanggal 17 April 2020

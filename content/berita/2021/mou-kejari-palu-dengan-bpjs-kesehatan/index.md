@@ -1,9 +1,10 @@
 ---
 title: "MoU Kejari Palu dengan BPJS Kesehatan"
 date: 2021-11-05
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "8.jpg"
+summary: "Kejaksaan Negeri Palu melaksanakan Penandatanganan Nota Kesepakatan Bersama (MoU) dengan BPJS Kesehatan cabang Palu yang ditandatangani oleh Wahidah selaku Kepala BPJS Kesehatan cabang Palu sebagai Pihak Pertama dan Bapak Hartawi, SH. selaku Kepala Kejaksaan Negeri Palu sebagai Pihak Kedua."
 ---
 
 Kejaksaan Negeri Palu melaksanakan Penandatanganan Nota Kesepakatan Bersama (MoU) dengan BPJS Kesehatan cabang Palu yang ditandatangani oleh Wahidah selaku Kepala BPJS Kesehatan cabang Palu sebagai Pihak Pertama dan Bapak Hartawi, SH. selaku Kepala Kejaksaan Negeri Palu sebagai Pihak Kedua.

@@ -1,13 +1,14 @@
 ---
 title: "Penandatangan MoU Kejari Palu dan Kantor Pertanahan Kota Palu"
 date: 2017-03-16
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "datun"
   - "mou"
 coverImage: "img_1731-1.jpg"
+summary: "Kepala Kantor Pertanahan Kota Palu dan Kepala Kejaksaan Negeri Palu Kamis, (16/3/17) pukul 10:00 WITA melaksanakan Penandatanganan Kesepakatan Bersama / MoU tentang penanganan masalah hukum Perdata dan Tata Usaha Negara bertempat di aula Kejaksaan Negeri Palu."
 ---
 
 **Palu -** Kepala Kantor Pertanahan Kota Palu dan Kepala Kejaksaan Negeri Palu Kamis, (16/3/17) pukul 10:00 WITA melaksanakan Penandatanganan Kesepakatan Bersama / MoU tentang penanganan masalah hukum Perdata dan Tata Usaha Negara bertempat di aula Kejaksaan Negeri Palu. Kegiatan ini diikuti oleh para Kasi, Kasubag, pegawai di lingkungan Kejari Palu dan Para Kasi, Kaur di lingkungan Kantor Pertanahan Kota Palu. Penandatanganan dilakukan oleh Kepala Kantor Pertanahan Kota Palu Ery Suwondo, S.H. dan Kepala Kejaksaan Negeri Palu yang diwakili oleh Kasi Pidum Surianto,S.H., karena Kajari Palu Subeno,S.H. pada saat yang bersamaan menghadiri undangan Sesjampidsus Di Kejaksaan Agung R.I. di Jakarta.

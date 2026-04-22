@@ -1,9 +1,10 @@
 ---
 title: "HUT TNI KE-77 PALU"
 date: 2022-10-05
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-10-12-at-21.14.18-2.jpeg"
+summary: "Upacara peringatan HUT TNI Ke - 77 dilaksanakan di Lapangan Makorem 132/Tadulako bersama Forkopimda Prov. Sulawesi Tengah dan Forkopimda Kota Palu, (05/10/22)."
 ---
 
 **Palu -** Upacara peringatan HUT TNI Ke - 77 dilaksanakan di Lapangan Makorem 132/Tadulako bersama Forkopimda Prov. Sulawesi Tengah dan Forkopimda Kota Palu, (05/10/22).

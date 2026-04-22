@@ -1,9 +1,11 @@
 ---
 title: "Kejaksaan Negeri Palu menghadiri Kunjungan Studi Strategis dalam Negeri LEMHANAS RI PPRA XLIV Tahun 2022"
 date: 2022-07-05
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-01-at-11.28.39-1.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu, Hartawi,SH., menghadiri kunjungan Lembaga Ketahanan Nasional Republik Indonesia (Lemhanas RI) pada Rabu, 06 Juli 2022 di Ruang rapat Bantaya Kantor Wali Kota Palu"
 ---
 
 Palu - Kepala Kejaksaan Negeri Palu, Hartawi,SH., menghadiri kunjungan Lembaga Ketahanan Nasional Republik Indonesia (Lemhanas RI) pada Rabu, 06 Juli 2022 di Ruang rapat Bantaya Kantor Wali Kota Palu

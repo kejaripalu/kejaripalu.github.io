@@ -1,13 +1,13 @@
 ---
 title: "Mantan Ketua Harian dan Bendahara KONI Palu Dituntut 5 Tahun Penjara"
 date: 2017-11-28
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "korupsi"
   - "penuntutan"
 coverImage: "IMG.jpg"
+summary: "Jaksa Penuntut Umum (JPU) Pengadilan Negeri (PN) Palu, menuntut pidana penjara masing-masing lima tahun kepada Mantan Ketua Harian Komite Olahraga Nasional Indonesia (KONI) Palu, Djikra Garontina dan Bendahara Kasrianto Abdi."
 ---
 
 **PALU**\- Jaksa Penuntut Umum (JPU) menuntut pidana penjara masing-masing lima tahun kepada Mantan Ketua Harian Komite Olahraga Nasional Indonesia (KONI) Palu, Djikra Garontina dan Bendahara Kasrianto Abdi. Keduanya terdakwa kasus dugaan korupsi pengelolaan dana hibah KONI Palu.

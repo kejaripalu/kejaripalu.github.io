@@ -1,13 +1,13 @@
 ---
 title: "Kejari Palu musnahkan 1,5 Kg Sabu"
 date: 2018-04-20
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "eksekusi"
   - "narkotika"
 coverImage: "WhatsApp-Image-2018-05-08-at-15.12.26.jpeg"
+summary: "Kejaksaan Negeri (Kejari) Palu memusnahkan sedikitnya 1,5 kilogram narkotika jenis sabu-sabu dengan cara diblender, di depan Kantor Kejari, Kamis (19/04)."
 ---
 
 **PALU** Kejaksaan Negeri (Kejari) Palu memusnahkan sedikitnya 1,5 kilogram narkotika jenis sabu-sabu dengan cara diblender, di depan Kantor Kejari, Kamis (19/04).

@@ -1,12 +1,13 @@
 ---
 title: "Kejari Palu Geledah Kantor BPD Kota Palu"
 date: 2024-12-11
-categories: 
-  - "berita-kejaksaan"
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
+  - "Kejari Palu"
   - "korupsi"
 coverImage: "xxxx.jpeg"
+summary: "Kejaksaan Negeri Palu melakukan penggeledahan pada kantor Badan Pendapatan Daerah (BPD) Kota Palu, Jalan Baruga, pada Rabu (11/12)."
 ---
 
 PALU – Tim Penyidik Kejaksaan Negeri Palu melakukan penggeledahan pada kantor Badan Pendapatan Daerah (BPD) Kota Palu, Jalan Baruga, pada Rabu (11/12). Penggeledahan ini merupakan bagian dari penyidikan dugaan penyimpangan anggaran Bea Perolehan Hak Atas Tanah dan Bangunan (BPHTB) pada tahun anggaran 2018-2019.

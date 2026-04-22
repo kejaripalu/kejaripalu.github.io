@@ -1,9 +1,10 @@
 ---
 title: "FESTIVAL KEBANGSAAN DI TAMAN GOR"
 date: 2022-08-09
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-10-at-09.20.33-1.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu, Hartawi.SH., menghadiri Kegiatan Festival Kebangsaan Dalam Rangka Bulan Pancasila dan Menyemarakkan HUT RI Ke-77 Tahun 2022 yang diadakan di Taman GOR Kota Palu, Senin (08/08)."
 ---
 
 Palu - Kepala Kejaksaan Negeri Palu, Hartawi.SH., menghadiri Kegiatan Festival Kebangsaan Dalam Rangka Bulan Pancasila dan Menyemarakkan HUT RI Ke-77 Tahun 2022 yang diadakan di Taman GOR Kota Palu, Senin (08/08).

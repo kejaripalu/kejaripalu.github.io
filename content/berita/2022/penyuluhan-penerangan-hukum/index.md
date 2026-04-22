@@ -1,9 +1,10 @@
 ---
 title: "PENYULUHAN / PENERANGAN HUKUM"
 date: 2022-03-31
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-04-05-at-09.24.34.jpeg"
+summary: "Kejaksaan Negeri Palu bidang Intelijen, mengadakan Penyuluhan / Penerangan Hukum bersama para Mahasiswa KKN Universitas Tadulako berlokasi di Kantor Kelurahan Lolu Utara."
 ---
 
 **PALU** - Kejaksaan Negeri Palu bidang Intelijen, mengadakan Penyuluhan / Penerangan Hukum bersama para Mahasiswa KKN Universitas Tadulako berlokasi di Kantor Kelurahan Lolu Utara. Kepala Seksi Bidang Intelijen, Bapak Armadha Tangdibali,SH.,MH sebagai Narasumber dan Dihadiri juga oleh Lurah Lolu Utara, Bapak Christian , dan masyarakat diwilayah kelurahan Lolu Utara.

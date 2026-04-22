@@ -1,9 +1,11 @@
 ---
 title: "PEMUSNAHAN BARANG BUKTI KEJAKSAAN NEGERI PALU"
 date: 2022-05-20
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-05-24-at-08.37.35.jpeg"
+summary: "Kejaksaan Negeri Palu memusnahkan barang bukti sabu sebanyak 2,7 kilogram pada hari Kamis, tanggal 19 Mei 2022."
 ---
 
 **PALU** - Kejaksaan Negeri Palu memusnahkan barang bukti sabu sebanyak 2,7 kilogram pada hari Kamis, tanggal 19 Mei 2022. Barang Bukti Sabu tersebut merupakan barang bukti dari 138 perkara hasil kejahatan narkotika dan 11 perkara pidana umum lainnya di Kota Palu.

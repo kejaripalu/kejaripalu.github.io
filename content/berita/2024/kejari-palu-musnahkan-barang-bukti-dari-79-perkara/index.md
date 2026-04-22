@@ -1,14 +1,13 @@
 ---
 title: "Kejari Palu Musnahkan Barang Bukti dari 79 Perkara"
 date: 2024-07-12
-categories: 
-  - "berita"
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "narkoba"
   - "pemusnahan"
 coverImage: "MAL-Babuk-Kejari.jpeg"
+summary: "Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti dari 79 perkara yang telah memiliki kekuatan hukum tetap (inkracht) periode Februari hingga Juli 2024."
 ---
 
 PALU – Kejaksaan Negeri (Kejari) Palu melakukan pemusnahan barang bukti (babuk), di halaman Kantor Palu, Kamis (11/07).

@@ -1,9 +1,10 @@
 ---
 title: "Kejari Palu bantu Penangkapan Buron, Terpidana Korupsi Inhutani IV"
 date: 2021-10-31
-categories: 
-  - "media-massa"
+kategori: 
+  - "Berita"
 coverImage: "10.jpg"
+summary: "Terpidana korupsi PT Eksploitasi dan Industri Hutan (Inhutani) IV Sub Sektor Rengat, Provinsi Riau, Ir Mujiono, tiba di Pekanbaru, Ahad (31/10/2021)."
 ---
 
 **PEKANBARU (CAKAPLAH)** - Terpidana korupsi PT Eksploitasi dan Industri Hutan (Inhutani) IV Sub Sektor Rengat, Provinsi Riau, Ir Mujiono, tiba di Pekanbaru, Ahad (31/10/2021). Ia langsung dieksekusi ke Lapas Kelas IIA Pekanbaru untuk menjalani masa hukuman 2 tahun penjara.

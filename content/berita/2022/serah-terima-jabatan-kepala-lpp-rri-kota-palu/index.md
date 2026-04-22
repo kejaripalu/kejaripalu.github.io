@@ -1,9 +1,10 @@
 ---
 title: "SERAH TERIMA JABATAN KEPALA LPP RRI KOTA PALU"
 date: 2022-10-04
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 coverImage: "IMG_1199-scaled.jpg"
+summary: "Acara serah terima jabatan Kepala RRI Palu dari Ruslan Irianto yang telah memasuki masa purna bakti kepada Raden Muhammad Yusridarto."
 ---
 
 Palu - Acara serah terima jabatan Kepala RRI Palu dari Ruslan Irianto yang telah memasuki masa purna bakti kepada Raden Muhammad Yusridarto, disaksikan Direktur Program dan Produksi LPP RRI Mistam, serta dihadiri sejumlah pejabat instansi vertikal dan daerah serta para angkasawan RRI Palu, Sulawesi Tengah (Sulteng), selasa (04/10/22)

@@ -1,9 +1,11 @@
 ---
 title: "Kepala Kejaksaan Negeri Palu menghadiri Upacara Peringatan Hari Bhayangkara Ke 76"
 date: 2022-07-05
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "DSC0210.jpg"
+summary: "Kepala Kejaksaan Negeri Palu, Hartawi,SH pada Selasa, 05 Juli 2022 secara virtual dari Markas Polresta Kota Palu. Upacara tersebut dipimpin langsung oleh Presiden RI, Ir. Joko Widodo yang dipusatkan di Kampus Akademi Kepolisian, kawasan Candi, Semarang, Jawa Tengah"
 ---
 
 Palu - Kepala Kejaksaan Negeri Palu, Hartawi,SH pada Selasa, 05 Juli 2022 secara virtual dari Markas Polresta Kota Palu. Upacara tersebut dipimpin langsung oleh Presiden RI, Ir. Joko Widodo yang dipusatkan di Kampus Akademi Kepolisian, kawasan Candi, Semarang, Jawa Tengah

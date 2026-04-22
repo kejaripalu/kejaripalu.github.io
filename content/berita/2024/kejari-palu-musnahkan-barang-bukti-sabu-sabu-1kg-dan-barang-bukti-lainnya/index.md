@@ -1,14 +1,13 @@
 ---
 title: "Kejari Palu musnahkan barang bukti sabu-sabu 1kg dan barang bukti lainnya"
 date: 2024-11-13
-categories: 
-  - "berita"
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "kejaripalu"
   - "pemusnahan-barang-bukti"
 coverImage: "IMG-20241113-WA0021-scaled.jpg"
+summary: "Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti sabu, ganja dan lainnya, di halaman Kantor Kejaksaan Negeri Palu, Jalan Prof Moh Yamin, Kota Palu, Selasa (12/11)."
 ---
 
 **PALU** - Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti sabu, ganja dan lainnya, di halaman Kantor Kejaksaan Negeri Palu, Jalan Prof Moh Yamin, Kota Palu, Selasa (12/11).

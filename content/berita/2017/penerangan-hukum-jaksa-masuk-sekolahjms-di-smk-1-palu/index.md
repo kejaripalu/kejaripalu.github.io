@@ -1,15 +1,16 @@
 ---
 title: "Penerangan Hukum, Jaksa Masuk Sekolah(JMS) di SMK 1 Palu"
 date: 2017-02-07
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "binmatkum"
   - "jms"
   - "luhkum"
   - "penkum"
 coverImage: "img_1677.jpg"
+summary: "Tim Jaksa Masuk Sekolah (JMS) Kejaksaan Negeri (Kejari) Palu, Selasa 7 Februari 2017, memberikan Penerangan dan Penyuluhan hukum bahaya tindak pidana korupsi sejak dini di SMK Negeri 1 Palu. Kegiatan Jaksa Masuk Sekolah ini diikuti oleh siswa-siswi SMK Negeri 1 Palu."
 ---
 
 **Palu -** Tim Jaksa Masuk Sekolah (JMS) Kejaksaan Negeri (Kejari) Palu, Selasa 7 Februari 2017, memberikan Penerangan dan Penyuluhan hukum bahaya tindak pidana korupsi sejak dini di SMK Negeri 1 Palu. Kegiatan Jaksa Masuk Sekolah ini diikuti oleh siswa-siswi SMK Negeri 1 Palu.

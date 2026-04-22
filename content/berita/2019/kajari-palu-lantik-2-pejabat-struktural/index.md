@@ -1,14 +1,13 @@
 ---
 title: "Kajari Palu lantik 2 pejabat struktural"
 date: 2019-02-21
-categories: 
-  - "berita-kejaksaan"
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "datun"
   - "pembinaan"
 coverImage: "IMG_20190221_093939186.jpg"
+summary: "Kepala Kejaksaan Negeri Palu, Subeno, S.H., M.M. melantik 2 pejabat struktural eselon IV (21/02/2019) di lingkungan Kejaksaan Negeri Palu."
 ---
 
 **Palu -** Kepala Kejaksaan Negeri Palu, Subeno, S.H., M.M. melantik 2 pejabat struktural eselon IV (21/02/2019) di lingkungan Kejaksaan Negeri Palu yakni Mutmainnah Umadji, S.H., M.H. sebagai Kepala Seksi Perdata dan Tata Usaha Negara (Kasi Datun) menghantikan I Ketut Sudiarta, S.H., M.H. yang dipromosikan menjadi Satgas Intelijen pada Kejaksaan Tinggi Bali dan Thamrin Hi. Noor, S.H. sebagai Kepala Sub Bagkan Pembinaan (Kasubagbin) menggantikan Rahmawati, S.H. yang dipromosikan menjadi Kepala Sub Bagian Umum pada Kejaksaan Tinggi Sulawesi Tengah.

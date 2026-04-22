@@ -1,11 +1,13 @@
 ---
 title: "KEJARI PALU MELAKSANAKAN KEGIATAN JAKSA MASUK SEKOLAH (JMS) DI SMKN 1 PALU"
 date: 2024-03-05
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
-  - "jms"
+  - "Kejari Palu"
+  - "JMS"
 coverImage: "4.jpg"
+summary: "Kejaksaan Negeri Palu melaksanakan kegiatan Jaksa Masuk Sekolah (JMS) di SMKN 1 Palu (04/03/2024)."
 ---
 
 **Palu -** Kejaksaan Negeri Palu melaksanakan kegiatan Jaksa Masuk Sekolah (JMS) di SMKN 1 Palu (04/03/2024). Kepala Seksi Perdata dan Tata Usaha Negara bertindak sebagai inspektur upacara bendera. Dalam amanatnya, Kepala Seksi Perdata dan Tata Usaha Negara menyampaikan kepada seluruh siswa agar memegang teguh Janji Siswa yang pada salah satu butirnya menyatakan berjanji untuk menjaga nama baik keluarga, sekolah, bangsa dan negara dengan menjauhkan diri dari perbuatan-perbuatan tercela. Janji Siswa juga tercantum janji untuk senantiasa rajin menuntut ilmu dan memupuk diri dengan prestasi.

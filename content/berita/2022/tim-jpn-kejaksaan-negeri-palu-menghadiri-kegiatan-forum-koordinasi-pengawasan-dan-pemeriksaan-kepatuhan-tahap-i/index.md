@@ -1,9 +1,10 @@
 ---
 title: "TIM JPN Kejaksaan Negeri Palu menghadiri Kegiatan Forum Koordinasi Pengawasan dan Pemeriksaan Kepatuhan Tahap I"
 date: 2022-06-27
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-01-at-11.40.12-1.jpeg"
+summary: "Tim JPN Kejaksaan Negeri Palu bersama BPJS Kesehatan Cabang Kota Palu melaksanakan Forum Koordinasi Pengawasan dan Pemeriksaan Kepatuhan Tahap I Kota Palu pada hari Senin, 27 Juni 2022"
 ---
 
 Palu - Tim JPN Kejaksaan Negeri Palu bersama BPJS Kesehatan Cabang Kota Palu melaksanakan Forum Koordinasi Pengawasan dan Pemeriksaan Kepatuhan Tahap I Kota Palu pada hari Senin, 27 Juni 2022

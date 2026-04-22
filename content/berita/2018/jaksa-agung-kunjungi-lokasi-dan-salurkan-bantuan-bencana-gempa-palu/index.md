@@ -1,11 +1,12 @@
 ---
 title: "Jaksa Agung Kunjungi Lokasi Dan Salurkan Bantuan Bencana Gempa Palu"
 date: 2018-10-23
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
   - "kejaksaan"
 coverImage: "WhatsApp-Image-2018-10-23-at-11.39.13.jpeg"
+summary: "Jaksa Agung RI beserta rombongan melakukan kunjungan kerja ke Sulawesi Tengah dalam rangka meninjau pelayanan bantuan kemanusiaan korban bencana alam Palu-Sigi-Donggala oleh Kejaksaan R.I melalui Posko Kejaksaan R.I Peduli, Senin (22/10/18)."
 ---
 
 **Palu -** Jaksa Agung RI beserta rombongan melakukan kunjungan kerja ke Sulawesi Tengah dalam rangka meninjau pelayanan bantuan kemanusiaan korban bencana alam Palu-Sigi-Donggala oleh Kejaksaan R.I melalui Posko Kejaksaan R.I Peduli, Senin (22/10/18).

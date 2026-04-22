@@ -1,9 +1,10 @@
 ---
 title: "Rapat Pakem Tahun 2021"
 date: 2021-09-30
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "6.jpg"
+summary: "Kejaksaan Negeri Palu melaksanakan Rapat Koordinasi Pengawasan Aliran Kepercayaan dan Aliran Keagamaan dalam Masyarakat (PAKEM) Kota Palu Tahun Anggaran 2021"
 ---
 
 Kejaksaan Negeri Palu melaksanakan Rapat Koordinasi Pengawasan Aliran Kepercayaan dan Aliran Keagamaan dalam Masyarakat (PAKEM) Kota Palu Tahun Anggaran 2021

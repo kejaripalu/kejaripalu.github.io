@@ -1,11 +1,13 @@
 ---
 title: "Kejari Palu melaksanakan kegiatan Jaksa Masuk Sekolah (JMS) di SMKN 2 Palu"
 date: 2024-03-09
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
-  - "jms"
+  - "Kejari Palu"
+  - "JMS"
 coverImage: "3.jpg"
+summary: "Kejaksaan Negeri Palu melalui bidang Intelijen melaksanakan kegiatan Jaksa Masuk Sekolah (JMS) di SMKN 2 Palu (Kamis 8 Maret 2024)."
 ---
 
 **Palu -** Kejaksaan Negeri Palu melalui bidang Intelijen melaksanakan kegiatan Jaksa Masuk Sekolah (JMS) di SMKN 2 Palu (Kamis 8 Maret 2024). Kepala Seksi Intelijen pada kegiatan ini memberikan pemahaman bahwa narkoba bukanlah masalah yang hanya terbatas pada individu yang mengonsumsinya. Ini adalah masalah sosial yang dapat merusak kesehatan, hubungan, dan stabilitas masyarakat secara keseluruhan.

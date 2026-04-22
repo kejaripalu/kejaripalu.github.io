@@ -1,10 +1,11 @@
 ---
 title: "Kejaksaan Negeri Palu melaksanakan kegiatan Jaksa Masuk Sekolah di SMPN 21 Palu"
 date: 2025-02-26
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "Screenshot-2025-04-10-131725.png"
+summary: "Kejaksaan Negeri Palu melalui bidang Intelijen melaksanakan penyuluhan hukum 'Jaksa Masuk Sekolah' di SMPN 21 Palu (26 Februari 2025). Pada kegiatan Jaksa Masuk Sekolah kali ini, pemateri menyampaikan materi yang sangat relevan dalam kehidupan remaja, yaitu bullying dan narkoba. Bullying atau perundungan adalah tindakan yang tidak boleh dibiarkan."
 ---
 
 Palu - Kejaksaan Negeri Palu melalui bidang Intelijen melaksanakan penyuluhan hukum "Jaksa Masuk Sekolah" di SMPN 21 Palu (26 Februari 2025). Pada kegiatan Jaksa Masuk Sekolah kali ini, pemateri menyampaikan materi yang sangat relevan dalam kehidupan remaja, yaitu bullying dan narkoba. Bullying atau perundungan adalah tindakan yang tidak boleh dibiarkan.

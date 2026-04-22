@@ -1,14 +1,14 @@
 ---
 title: "Kejari Palu melaksanakan Jaksa Masuk Sekolah di SMAN 4 Palu"
 date: 2024-05-17
-categories: 
-  - "berita-kejaksaan"
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
-  - "jms"
-  - "kejaksaan"
+  - "Kejari Palu"
+  - "JMS"
   - "penkum"
 coverImage: "1.png"
+summary: "Kejaksaan Negeri Palu melaksanakan kegiatan Penyuluhan Hukum Jaksa Masuk Sekolah di SMAN 4 Palu. Kegiatan dipimpin oleh Kepala Seksi Intelijen dan diikuti oleh siswa-siswi kelas XI di SMAN 4 Palu."
 ---
 
 **Palu -** Kejaksaan Negeri Palu melaksanakan kegiatan Penyuluhan Hukum Jaksa Masuk Sekolah di SMAN 4 Palu. Kegiatan dipimpin oleh Kepala Seksi Intelijen dan diikuti oleh siswa-siswi kelas XI di SMAN 4 Palu.

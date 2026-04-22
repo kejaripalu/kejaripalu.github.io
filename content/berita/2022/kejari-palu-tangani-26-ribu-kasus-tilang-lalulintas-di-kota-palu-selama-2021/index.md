@@ -1,10 +1,10 @@
 ---
 title: "Kejari Palu Tangani 26 Ribu Kasus Tilang Lalulintas di Kota Palu Selama 2021"
 date: 2022-01-10
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 coverImage: "IMG.jpg"
+summary: "Kejaksaan Negeri (Kejari) Palu sepanjang Tahun 2021 telah menangani ribuan perkara tahap penututan kasus tilang kendaraan."
 ---
 
 Kejaksaan Negeri (Kejari) Palu sepanjang Tahun 2021 telah menangani ribuan perkara tahap penututan kasus tilang kendaraan.
