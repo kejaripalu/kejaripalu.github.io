@@ -1,10 +1,13 @@
 ---
 title: "Kepala Seksi Intelijen bertindak sebagai narasumber pada kegiatan Penerangan Hukum kepada Lurah-lurah se-Kota Palu"
 date: 2025-02-27
-categories: 
-  - "berita"
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
+tags: 
+  - "kejaripalu"
 coverImage: "Screenshot-2025-04-10-133841.png"
+summary: "Kepala Seksi Intelijen menjadi narasumber pada kegiatan Penerangan Hukum kepada para Lurah se-Kota Palu mengenai pencegahan penyalahgunaan dana kelurahan dan penanganan sengketa agraria (27/02/2025)."
 ---
 
 Palu - Kepala Seksi Intelijen bertindak sebagai narasumber pada kegiatan Penerangan Hukum kepada Lurah-lurah se-Kota Palu perihal pencegahan penyalahgunaan dana kelurahan dan penanganan sengketa agraria. Kepala Seksi Intelijen memberikan himbauan kepada para lurah agar memanfaatkan aplikasi "jaksa garda desa” guna mewujudkan transparansi dan akuntabilitas dalam pengelolaan dana kelurahan yang mendukung pembangunan berkelanjutan dan bermanfaat bagi masyarakat.

@@ -1,9 +1,10 @@
 ---
 title: "JMS pada SMKN 2 Palu"
 date: 2021-11-03
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "7.jpg"
+summary: "Kejaksaan Negeri Palu bidang Intelijen mengadakan kegiatan 'JAKSA MASUK SEKOLAH' . Kegiatan ini dilaksanakan di SMK Negeri 2 Palu, dengan jumlah siswa yang hadir sekitar 50 Murid."
 ---
 
 Kejaksaan Negeri Palu bidang Intelijen mengadakan kegiatan "JAKSA MASUK SEKOLAH" . Kegiatan ini dilaksanakan di SMK Negeri 2 Palu, dengan jumlah siswa yang hadir sekitar 50 Murid.

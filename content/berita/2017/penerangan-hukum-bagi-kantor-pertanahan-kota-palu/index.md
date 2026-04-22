@@ -1,13 +1,14 @@
 ---
 title: "Penerangan Hukum bagi Kantor Pertanahan Kota Palu"
 date: 2017-03-16
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 tags: 
   - "datun"
   - "penkum"
 coverImage: "IMG_54672.jpg"
+summary: "Dalam kegiatan penandatanganan MoU dibidang Hukum Perdata dan TUN antara Kejaksaan Negeri Palu dan Kantor Pertanahan Kota Palu (16/3/17), Kejaksaan Negeri Palu juga memberikan Penerangan Hukum kepada peserta dari Kantor Pertanahan Kota Palu yang ikut dalam kegiatan MoU di aula Kejaksaan Negeri Palu."
 ---
 
 **Palu** - Dalam kegiatan penandatanganan MoU dibidang Hukum Perdata dan TUN antara Kejaksaan Negeri Palu dan Kantor Pertanahan Kota Palu (16/3/17), Kejaksaan Negeri Palu juga memberikan Penerangan Hukum kepada peserta dari Kantor Pertanahan Kota Palu yang ikut dalam kegiatan MoU di aula Kejaksaan Negeri Palu.

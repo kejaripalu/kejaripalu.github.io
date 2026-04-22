@@ -1,9 +1,11 @@
 ---
 title: "LAUNCHING REVITALISASI PARKIR ELEKTRONIK (E-PARKING) DI KOTA PALU"
 date: 2022-02-16
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-02-16-at-10.45.03.jpeg"
+summary: "Kejaksaan Negeri Palu yang di wakilkan oleh Kepala Seksi Pidana Khusus, Bapak Erwin Juma,SH.,MH menghadiri Undangan Launching Revitalisasi Parkir Elektronik (E-Parking) di Kota Palu dengan menggunakan aplikasi Scan Barcode Qris (Quick Response Code Indonesia Standart)."
 ---
 
 ![](images/WhatsApp-Image-2022-02-16-at-10.45.01-300x225.jpeg)

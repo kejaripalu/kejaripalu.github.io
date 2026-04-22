@@ -1,9 +1,10 @@
 ---
 title: "Penyerahan tersangka dan barang bukti dalam perkara pembunuhan terhadap korban wartawati a.n. Maria Yeane Agustina"
 date: 2017-05-17
-categories: 
-  - "siaran-pers"
+kategori: 
+  - "SIARAN PERS"
 coverImage: "IMG.jpg"
+summary: "Tim Reskrim Polres Palu melakukan Penyerahan Tersangka inisial YS dan Barang Bukti ke Penuntut Umum Kejaksaan Negeri Palu terkait kasus pembunuhan terhadap korban wartawati a.n. MARIA YEANE AGUSTINA. Tersangka diduga melakukan tindak pidana kekerasan dalam rumah tangga yang mengakibatkan kematian / pembunuhan / penganiayaan berakibat mati."
 ---
 
 **Palu, 17 Mei 2017 -**Tim Reskrim Polres Palu melakukan Penyerahan Tersangka inisial **YS** dan Barang Bukti ke Penuntut Umum Kejaksaan Negeri Palu terkait kasus pembunuhan terhadap korban wartawati a.n. MARIA YEANE AGUSTINA. Tersangka diduga melakukan tindak pidana kekerasan dalam rumah tangga yang mengakibatkan kematian / pembunuhan / penganiayaan berakibat mati.

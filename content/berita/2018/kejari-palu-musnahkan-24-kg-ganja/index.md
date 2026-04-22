@@ -1,9 +1,10 @@
 ---
 title: "Kejari Palu Musnahkan 2,4 KG Ganja"
 date: 2018-11-27
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 coverImage: "WhatsApp-Image-2018-12-17-at-10.01.57.jpeg"
+summary: "Kejaksaan Negeri Palu memusnahkan 2,44 Kilogram Ganja, Selasa (27/11/2018). Ganja yang merupakan barang bukti (Babuk) tindak pidana narkotika yang sudah memiliki kekuatan hukum tetap, itu dimusnahkan di Halaman Kantor Kejari Palu"
 ---
 
 **Palu** - Kejaksaan Negeri Palu memusnahkan 2,44 Kilogram Ganja, Selasa (27/11/2018). Ganja yang merupakan barang bukti (Babuk) tindak pidana narkotika yang sudah memiliki kekuatan hukum tetap, itu dimusnahkan di Halaman Kantor Kejari Palu

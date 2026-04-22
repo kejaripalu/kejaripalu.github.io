@@ -1,11 +1,12 @@
 ---
 title: "Rapat Koordinasi Timpora Kota Palu"
 date: 2017-03-29
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
   - "timpora"
 coverImage: "img_1993-768x432.jpg"
+summary: "Kantor Imigrasi Kelas I Palu pada Kamis(29/3/17) menggelar rapat koordinasi Tim Pengawasan Orang Asing (TIMPORA) Kota Palu, bertempat di Hotel Mercure Palu sekitar pukul 10:00 WITA, yang dihadiri oleh berbagai unsur instansi yang terkait dengan kegiatan Orang Asing di Kota Palu."
 ---
 
 **Palu** - Kantor Imigrasi Kelas I Palu pada Kamis(29/3/17) menggelar rapat koordinasi Tim Pengawasan Orang Asing (TIMPORA) Kota Palu, bertempat di Hotel Mercure Palu sekitar pukul 10:00 WITA, yang dihadiri oleh berbagai unsur instansi yang terkait dengan kegiatan Orang Asing di Kota Palu. Rapat tersebut di buka oleh Kepala Divisi Imigrasi Kemenkumham wilayah Sulawesi Tengah dan dipimpin oleh Kepala Imigrasi Palu dan diikuti oleh peserta dari perwakilan Kejaksaan Negeri Palu, perwakilan BIN Kota Palu, perwakilan Polres Palu, perwakilan Kodim Palu, Perwakilan AU, Perwakilan BNN, Kaban Kesbangpol Palu, Kadis Dukcapil Palu dan Kadis Tenaga Kerja Palu.

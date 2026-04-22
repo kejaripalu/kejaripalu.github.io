@@ -1,10 +1,8 @@
 ---
 title: "Kejari Palu masuk nominasi percontohan zona integritas menuju WBK dan WBBM"
 date: 2018-07-04
-categories: 
-  - "berita-kejaksaan"
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "kantor"
   - "kejaksa"
@@ -12,6 +10,7 @@ tags:
   - "kejaksaan-agung"
   - "kejaksaan-agung-ri"
 coverImage: "IMG.jpg"
+summary: "Kejaksaan Negeri Palu masuk nominasi percontohan zona integritas menuju WBK dan WBBM"
 ---
 
 **Palu -** Tim Penilai Seleksi Nasional Nominasi Kejaksaan Negeri dalam rangka memperoleh legitimasi dari lembaga Kemenpan RB akan menetapkan tiga Kejaksaan Negeri terbaik dalam program akselerasi pembangunan zona Integritas menuju WBK/WBBM (Wilayah Bebas Korupsi)/ (Wilayah Birokrasi Bersih Dan Melayani).

@@ -1,9 +1,10 @@
 ---
 title: "EKSEKUSI TERPIDANA ATAS NAMA YAHDI BASMA"
 date: 2023-03-15
-categories: 
-  - "siaran-pers"
+kategori: 
+  - "Siaran Pers"
 coverImage: "IMG.jpg"
+summary: "Kejaksaan Negeri Palu berhasil mengamankan DPO atas nama Yahdi Basma, S.H."
 ---
 
 - Pada Hari Senin tanggal 13 Maret 2023 sekitar pukul 18.00 WIB bertempat di Kec. Sekupang, Kota Batam, Kepulauan Riau, Tim Kejaksaan Agung bersama Tim Kejaksaan Negeri Batam berhasil mengamankan DPO atas nama Yahdi Basma, S.H.

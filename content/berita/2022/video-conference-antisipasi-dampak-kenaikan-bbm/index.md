@@ -1,7 +1,7 @@
 ---
 title: "VIDEO CONFERENCE ANTISIPASI DAMPAK KENAIKAN BBM"
 date: 2022-09-06
-categories: 
+kategori: 
   - "kegiatan"
 coverImage: "WhatsApp-Image-2022-10-12-at-21.14.06-1.jpeg"
 ---

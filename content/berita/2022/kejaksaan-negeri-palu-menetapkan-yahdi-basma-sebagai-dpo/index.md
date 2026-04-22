@@ -1,9 +1,10 @@
 ---
 title: "KEJAKSAAN NEGERI PALU MENETAPKAN YAHDI BASMA SEBAGAI DPO"
 date: 2022-10-05
-categories: 
-  - "berita-kejaksaan"
+kategori: 
+  - "Berita"
 coverImage: "download.jpg"
+summary: "Pihak Kejaksaan Negeri (Kejari) Palu di Sulawesi Tengah menetapkan Yahdi Basma, terpidana kasus informasi transaksi dan elektronik (ITE) sebagai Daftar Pencarian Orang (DPO)."
 ---
 
 **PALU** - Pihak Kejaksaan Negeri (Kejari) Palu di Sulawesi Tengah menetapkan Yahdi Basma, terpidana kasus informasi transaksi dan elektronik (ITE) sebagai Daftar Pencarian Orang (DPO), Kepala Seksi Intelejen (Kasi Intel) Kejari Palu, Nyoman Purya yang dikonfirmasi jurnalis media ini, Selasa (4/10/2022) membenarkan kabar penetapan DPO Yahdi Basma.

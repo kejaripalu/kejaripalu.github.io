@@ -1,9 +1,11 @@
 ---
 title: "LAUNCHING POLIKLINIK SANGU PATUJU (REHABILITASI MEDIK) RSUD ANUTAPURA PALU"
 date: 2022-08-26
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-29-at-08.53.33.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu yang diwakili oleh Kepala Seksi Tindak Pidana Umum Bapak A SATYA ADHI CIPTA, S.H., M.H. menghadiri Launching Poliklinik Sangu Patuju sebagai salah satu poliklinik pelayanan rehabilitasi medis bagi penyalahguna narkoba di kota Palu."
 ---
 
 **Palu** - Kepala Kejaksaan Negeri Palu yang diwakili oleh Kepala Seksi Tindak Pidana Umum Bapak A SATYA ADHI CIPTA, S.H., M.H. menghadiri Launching Poliklinik Sangu Patuju sebagai salah satu poliklinik pelayanan rehabilitasi medis bagi penyalahguna narkoba di kota Palu.

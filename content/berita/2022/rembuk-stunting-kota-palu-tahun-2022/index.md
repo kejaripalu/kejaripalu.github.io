@@ -1,9 +1,10 @@
 ---
 title: "REMBUK STUNTING KOTA PALU TAHUN 2022"
 date: 2022-07-06
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-08-10-at-09.21.56-1.jpeg"
+summary: "Kejaksaan Negeri Palu yang diwakili oleh Staf bidang Tindak Pidana Umum menghadiri kegiatan 'REMBUK STUNTING'."
 ---
 
 Palu - Kejaksaan Negeri Palu yang diwakili oleh Staf bidang Tindak Pidana Umum menghadiri kegiatan "REMBUK STUNTING", Wali Kota Palu, H. Hadianto Rasyid, SE didampingi Wakil Wali Kota Palu, dr. Reny A. Lamadjido, Sp.PK.,M.Kes secara resmi membuka Rembuk Stunting pada Selasa, 05 Juli 2022 di Hotel Best Western Coco Palu.

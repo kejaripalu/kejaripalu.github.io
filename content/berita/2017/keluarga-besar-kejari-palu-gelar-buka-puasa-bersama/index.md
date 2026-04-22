@@ -1,9 +1,10 @@
 ---
 title: "Keluarga Besar Kejari Palu gelar Buka Puasa Bersama"
 date: 2017-06-21
-categories: 
-  - "kegiatan"
+kategori  : 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2017-06-21-at-14.17.08.jpeg"
+summary: "Keluarga besar Kejaksaan Negeri Palu melaksanakan buka puasa bersama bertempat di kantor Kejari Palu, Selasa, 20 Juni 2017."
 ---
 
 **Palu -**Keluarga besar Kejaksaan Negeri Palu melaksanakan buka puasa bersama bertempat di kantor Kejari Palu, Selasa, 20 Juni 2017.Nampak hadir pada acara ini, Kajari Palu Subeno SH,MM, para Kepala Seksi (Kasi), Kasubag serta seluruh pegawai Kejari Palu.Acara buka Puasa bersama ini juga di isi ceramah agama.

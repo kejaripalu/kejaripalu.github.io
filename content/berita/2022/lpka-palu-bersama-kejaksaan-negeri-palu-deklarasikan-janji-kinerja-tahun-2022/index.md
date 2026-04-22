@@ -1,9 +1,11 @@
 ---
 title: "LPKA Palu bersama Kejaksaan Negeri Palu Deklarasikan Janji Kinerja Tahun 2022"
 date: 2022-01-20
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-01-19-at-21.16.18-1.jpeg"
+summary: "Lembaga Pembinaan Khusus Anak (LPKA) Kelas II Palu beserta Unit Pelaksana Teknis (UPT) Pemasyarakatan se-Kota Palu, di antaranya Balai Pemasyarakatan (Bapas) Kelas II Palu, Rumah Penyimpanan Barang Sitaan Negara (Rupbasan) Kelas I Palu, Lembaga Pemasyarakatan Perempuan (LPP) Kelas III Palu dan Rumah Tahanan (Rutan) Kelas IIa Palu, melaksanakan Deklarasi Janji Kinerja Tahun 2022."
 ---
 
 PALU, MERCUSUAR – Lembaga Pembinaan Khusus Anak (LPKA) Kelas II Palu beserta Unit Pelaksana Teknis (UPT) Pemasyarakatan se-Kota Palu, di antaranya Balai Pemasyarakatan (Bapas) Kelas II Palu, Rumah Penyimpanan Barang Sitaan Negara (Rupbasan) Kelas I Palu, Lembaga Pemasyarakatan Perempuan (LPP) Kelas III Palu dan Rumah Tahanan (Rutan) Kelas IIa Palu, melaksanakan Deklarasi Janji Kinerja Tahun 2022.

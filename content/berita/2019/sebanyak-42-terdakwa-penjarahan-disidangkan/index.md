@@ -1,9 +1,10 @@
 ---
 title: "Sebanyak 42 terdakwa penjarahan disidangkan"
 date: 2019-01-04
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 coverImage: "DwD9JrVV4AIhFdL.jpg"
+summary: "Kejaksaan Negeri Palu menggelar sidang dalam kasus penjarahan pasca gempa Palu 28 September 2018 silang. Sebanyak 42 terdakwa disidangkan pada hari Rabu 3 Januari 2019 di Pengadilan Negeri Palu."
 ---
 
 **Palu -** Kejaksaan Negeri Palu menggelar sidang dalam kasus penjarahan pasca gempa Palu 28 September 2018 silang. Sebanyak 42 terdakwa disidangkan pada hari Rabu 3 Januari 2019 di Pengadilan Negeri Palu.

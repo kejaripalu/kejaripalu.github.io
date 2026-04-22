@@ -1,11 +1,12 @@
 ---
 title: "Rangkaian HBA 57 Ziarah Taman Makam Pahlawan"
 date: 2017-07-21
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "hba"
 coverImage: "WhatsApp-Image-2017-07-21-at-08.34.14.jpeg"
+summary: "Kejaksaan Tinggi Sulteng, Kejaksaan Negeri Palu, Kejaksaan Negeri Palu serta Pengurus IAD Wilayah Sulteng melakukan kegiatan ziarah dan tabur bunga para pahlawan nasional di Taman Makam Pahlawan (TMP) Tatura Palu (21/7). Kegiatan ini dilakukan dalam rangka Hari Bakti Adhyaksa ke - 57 tahun 2017."
 ---
 
 **Palu -**Kejaksaan Tinggi Sulteng, Kejaksaan Negeri Palu, Kejaksaan Negeri Palu serta Pengurus IAD Wilayah Sulteng melakukan kegiatan ziarah dan tabur bunga para pahlawan nasional di Taman Makam Pahlawan (TMP) Tatura Palu (21/7). Kegiatan ini dilakukan dalam rangka Hari Bakti Adhyaksa ke - 57 tahun 2017.

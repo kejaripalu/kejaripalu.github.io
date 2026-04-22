@@ -1,13 +1,14 @@
 ---
 title: "Kejari Palu Tahan Dua Tersangka Kasus KONI"
 date: 2017-09-23
-categories: 
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "kejaksaan"
   - "penuntutan"
   - "tipikor"
 coverImage: "1-KEJARI.jpg"
+summary: "Kejaksaan Negeri (Kejari) Palu telah menyelesaikan Tahap II penyerahan barang bukti dan tersangka dari penyidik kejaksaan kepada Jaksa Penuntut Umum (JPU), Rabu (20/9) Ketua Harian Komite Olah Raga Nasional (KONI) Kota Palu Djikrah Gorontina dan Bendahara Kasrianto Abdi Palu resmi ditahan di Rumah Tahanan (Rutan) Maesa Klas II A Palu."
 ---
 
 **PALU** Kejaksaan Negeri (Kejari) Palu telah menyelesaikan Tahap II penyerahan barang bukti dan tersangka dari penyidik kejaksaan kepada Jaksa Penuntut Umum (JPU), Rabu (20/9) Ketua Harian Komite Olah Raga Nasional (KONI) Kota Palu Djikrah Gorontina dan Bendahara Kasrianto Abdi Palu resmi ditahan di Rumah Tahanan (Rutan) Maesa Klas II A Palu.

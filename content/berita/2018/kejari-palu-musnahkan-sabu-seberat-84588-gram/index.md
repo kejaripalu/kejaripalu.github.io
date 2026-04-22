@@ -1,9 +1,10 @@
 ---
 title: "Kejari Palu Musnahkan Sabu Seberat 845,88 Gram"
 date: 2018-12-12
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 coverImage: "kejari-palu3.jpg"
+summary: "Kejaksaan Negeri (Kejari) Palu, Sulawesi Tengah, Memusnahkan barang bukti narkotika dan obat-obatan terlarang, selasa (11/12/2018)."
 ---
 
 **Palu** - Kejaksaan Negeri (Kejari) Palu, Sulawesi Tengah, Memusnahkan barang bukti narkotika dan obat-obatan terlarang, selasa (11/12/2018).

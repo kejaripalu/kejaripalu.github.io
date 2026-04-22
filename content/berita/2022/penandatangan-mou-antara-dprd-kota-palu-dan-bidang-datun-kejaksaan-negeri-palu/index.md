@@ -1,9 +1,10 @@
 ---
 title: "Penandatangan MoU antara DPRD Kota Palu dan Bidang Datun Kejaksaan Negeri Palu"
 date: 2022-01-11
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-01-13-at-12.58.56-1-1.jpeg"
+summary: "DPRD Kota Palu dan Kejaksaan Negeri Palu melaksanakan Penandatanganan Nota Kesepakatan Bersama (MoU) ditandatangani oleh bapak Moh. Ridwan Karim, S.Sos. M.Si selaku Sekretaris DPRD Kota Palu sebagai Pihak Pertama dan Hartawi, S.H. Kepala Kejaksaan Negeri Palu sebagai Pihak Kedua (Selasa, 11 Januari 2022)."
 ---
 
 **Palu -** DPRD Kota Palu dan Kejaksaan Negeri Palu melaksanakan Penandatanganan Nota Kesepakatan Bersama (MoU) ditandatangani oleh bapak Moh. Ridwan Karim, S.Sos. M.Si selaku Sekretaris DPRD Kota Palu sebagai Pihak Pertama dan Hartawi, S.H. Kepala Kejaksaan Negeri Palu sebagai Pihak Kedua (Selasa, 11 Januari 2022).

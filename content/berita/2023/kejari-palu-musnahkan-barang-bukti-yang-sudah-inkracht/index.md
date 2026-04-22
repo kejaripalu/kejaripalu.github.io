@@ -1,15 +1,13 @@
 ---
 title: "Kejari Palu musnahkan barang bukti yang sudah inkracht"
 date: 2023-05-11
-categories: 
-  - "kejari-palu"
-  - "media-massa"
-  - "kegiatan"
+kategori: 
+  - "Berita"
 tags: 
-  - "barang-bukti"
-  - "pemusnahan"
-  - "pemusnahan-barang-bukti"
+  - "Kejari Palu"
+  - "Kegiatan"
 coverImage: "IMG_3979.jpg"
+summary: "Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti atas perkara yang memiliki putusan yang berkekuatan hukum tetap, berdasarkan putusan Pengadilan Negeri Palu dan Surat Perintah Kejaksaan Negeri Palu nomor: Print- 660/P.2.10/enz.3/05/2023 tanggal 09 Mei 2023. Pemusnahan barang bukti dilakukan pada hari Kamis tanggal 11 Mei 2023 di halaman kantor Kejaksaan Negeri Palu."
 ---
 
 **Palu -** Kejaksaan Negeri Palu melaksanakan pemusnahan barang bukti atas perkara yang memiliki putusan yang berkekuatan hukum tetap, berdasarkan putusan Pengadilan Negeri Palu dan Surat Perintah Kejaksaan Negeri Palu nomor: Print- 660/P.2.10/enz.3/05/2023 tanggal 09 Mei 2023. Pemusnahan barang bukti dilakukan pada hari Kamis tanggal 11 Mei 2023 di halaman kantor Kejaksaan Negeri Palu.

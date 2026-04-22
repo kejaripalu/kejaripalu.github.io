@@ -1,10 +1,10 @@
 ---
 title: "Jaksa Eksekusi Mantan Gubernur Sulteng HB Paliudju"
 date: 2018-03-06
-categories: 
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 coverImage: "IMG.jpg"
+summary: "Mantan Gubernur Sulawesi Tengah, H Banjela (HB) Paliudju, akhirnya memenuhi panggilan eksekusi jaksa eksekutor pada Kejaksaan Negeri (Kejari) Palu, Senin (5/3) kemarin."
 ---
 
 **PALU** Mantan Gubernur Sulawesi Tengah, H Banjela (HB) Paliudju, akhirnya memenuhi panggilan eksekusi jaksa eksekutor pada Kejaksaan Negeri (Kejari) Palu, Senin (5/3) kemarin.

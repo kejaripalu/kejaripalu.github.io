@@ -1,9 +1,10 @@
 ---
 title: "APEL PENCANANGAN WBK DAN WBBM TAHUN 2022"
 date: 2022-04-04
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-04-05-at-11.19.34.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu, Bapak Hartawi,SH , memimpin langsung Apel Pencanangan Zona Integritas menuju Wilayah Birokrasi Bersih Melayani (WBBM) dan Wilayah Bebas Korupsi (WBK) yang diikuti oleh seluruh pejabat utama dan pegawai Kejaksaan Negeri Palu."
 ---
 
 **PALU** - Kepala Kejaksaan Negeri Palu, Bapak Hartawi,SH , memimpin langsung Apel Pencanangan Zona Integritas menuju Wilayah Birokrasi Bersih Melayani (WBBM) dan Wilayah Bebas Korupsi (WBK) yang diikuti oleh seluruh pejabat utama dan pegawai Kejaksaan Negeri Palu.

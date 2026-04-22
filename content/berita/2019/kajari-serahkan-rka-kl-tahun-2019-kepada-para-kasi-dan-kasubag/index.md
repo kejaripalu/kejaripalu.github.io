@@ -1,12 +1,13 @@
 ---
 title: "Kajari serahkan RKA-KL tahun 2019 kepada para Kasi dan Kasubag"
 date: 2019-01-10
-categories: 
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "wbbm"
   - "wbk"
 coverImage: "Dwd79C0U0AAufmg.jpg"
+summary: "Kepala Kejaksaan Negeri Palu Subeno,S.H.,M.M. melakukan penyerahan RKA-KL tahun 2019 kepada masing-masing kepala seksi dan kasubag pada Kejari Palu serta pemberian penghargaan kepada kepala seksi dan kasubag yang berprestasi tahun 2018 bertempat di Aula Kejaksaan Negeri Palu."
 ---
 
 **Palu -** Kajari Palu Subeno,S.H.,M.M. melakukan penyerahan RKA-KL tahun 2019 kepada masing-masing kepala seksi dan kasubag pada Kejari Palu serta pemberian penghargaan kepada kepala seksi dan kasubag yang berprestasi tahun 2018 bertempat di Aula Kejaksaan Negeri Palu.

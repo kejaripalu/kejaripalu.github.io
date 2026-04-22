@@ -1,9 +1,10 @@
 ---
 title: "PENANGKAPAN BURONAN TERPIDANA TIPIKOR AN. RYANTO LAYANDI"
 date: 2018-05-16
-categories: 
-  - "siaran-pers"
+ka  tegori: 
+  - "Siaran Pers"
 coverImage: "IMG.jpg"
+summary: "Tim eksekutor Kejaksaan Negeri Palu dan tim Kejaksaan Agung berhasil menangkap buronan (DPO) terpidana tindak pidana korupsi an. Ryanto Layandi pada hari Selasa sekitar pukul 23.00 WIB. Terpidana ditangkap di wilayah Padegangan, Tanggerang, Banten."
 ---
 
 Tim eksekutor Kejaksaan Negeri Palu dan tim Kejaksaan Agung berhasil menangkap buronan (DPO) terpidana tindak pidana korupsi an. Ryanto Layandi pada hari Selasa sekitar pukul 23.00 WIB. Terpidana ditangkap di wilayah Padegangan, Tanggerang, Banten.

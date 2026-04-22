@@ -1,12 +1,12 @@
 ---
 title: "Kasi Intel menjadi narasumber pada Kegiatan Dinas Kesehatan Kota Palu"
 date: 2019-02-20
-categories: 
-  - "kejari-palu"
-  - "kegiatan"
+kategori: 
+  - "Kegiatan"
 tags: 
   - "kejaksaan"
 coverImage: "IMG-20190220-WA0029.jpg"
+summary: "Kepala Seksi Intelijen, Agus, S.H. yang juga sebagai Ketua TP4D Kejari Palu menjadi narasumber pada kegiatan Pertemuan Bimbingan Teknis Penguatan Pengadaan Barang dan Jasa dan Keuangan Dinas Kesehatan Kota Palu bertempat di Aula Dinas Kesehatan Kota Palu(20/02/2019)."
 ---
 
 **Palu -** Kepala Seksi Intelijen, Agus, S.H. yang juga sebagai Ketua TP4D Kejari Palu menjadi narasumber pada kegiatan Pertemuan Bimbingan Teknis Penguatan Pengadaan Barang dan Jasa dan Keuangan Dinas Kesehatan Kota Palu bertempat di Aula Dinas Kesehatan Kota Palu(20/02/2019).

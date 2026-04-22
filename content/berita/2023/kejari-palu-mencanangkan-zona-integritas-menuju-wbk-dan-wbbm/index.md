@@ -1,14 +1,13 @@
 ---
 title: "Kejari Palu Mencanangkan Zona Integritas Menuju WBK dan WBBM"
 date: 2023-05-05
-categories: 
-  - "kejari-palu"
-  - "media-massa"
-  - "kegiatan"
+kategori: 
+  - "Berita"
 tags: 
   - "wbbm"
   - "wbk"
 coverImage: "WhatsApp-Image-2023-05-09-at-09.29.47.jpeg"
+summary: "Kejaksaan Negeri Palu melaksanakan Pencanangan pembangunan zona integritas (ZI) Wilayah Bebas dari Korupsi (WBK) dan Wilayah Birokrasi Bersih dan Melayani (WBBM)."
 ---
 
 **PALU** – Kejaksaaan Negeri Palu melaksanakan Pencanangan pembangunan zona integritas (ZI) Wilayah Bebas dari Korupsi (WBK) dan Wilayah Birokrasi Bersih dan Melayani (WBBM). Hal itu disampaikan oleh Kepala Kejaksaan Negeri (Kajari) Kota Palu, Muhammad Irwan Datuiding, dalam apel pencanangan ZI menuju WBK dan WBBM, Jumat (5/5).

@@ -1,9 +1,10 @@
 ---
 title: "PERESMIAN RUMAH RESTORATIF"
 date: 2022-03-30
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "WhatsApp-Image-2022-04-05-at-09.24.33-1.jpeg"
+summary: "Kepala Kejaksaan Negeri Palu, Bapak Hartawi,SH didampingi Para Kepala Seksi menyelenggarakan Peresmian Restorative Justice House, bertempat di Kantor Kelurahan Lolu Utara, Rabu (30/03)."
 ---
 
 PALU - Kepala Kejaksaan Negeri Palu, Bapak Hartawi,SH didampingi Para Kepala Seksi menyelenggarakan Peresmian Restorative Justice House, bertempat di Kantor Kelurahan Lolu Utara, Rabu (30/03). Dihadiri langsung Oleh Walikota Palu, Bapak Hadianto Rasyid, Kapolres Palu, AKBP Bayu lndra Wiguno,S.I.K.,M.I.K dan dihadiri oleh Forkopinda Kota Palu.

@@ -1,9 +1,10 @@
 ---
 title: "Rakernis Bidang Intelijen Kejaksaan RI Tahun 2021"
 date: 2021-09-22
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Kegiatan"
 coverImage: "2.jpg"
+summary: "Kejaksaan Negeri Palu mengikuti Rapat Kerja Teknis (Rakernis) Bidang Intelijen Kejaksaan RI Tahun 2021 secara Virtual yang dibuka langsung oleh Jaksa Agung Republik Indonesia, Bapak Burhanuddin."
 ---
 
 Kajari Palu menghadiri Pembukaan Rapat Kerja Teknis (Rakernis) Bidang Intelijen Kejaksaan RI Tahun 2021 secara Virtual yang dibuka langsung oleh Jaksa Agung Republik Indonesia, Bapak Burhanuddin. Rakernis akan berlangsung selama 2 (dua) hari mulai dari Hari Rabu - Kamis tanggal 22-23 September 2021.

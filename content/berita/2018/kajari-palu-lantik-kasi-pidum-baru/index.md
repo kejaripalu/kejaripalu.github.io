@@ -1,12 +1,12 @@
 ---
 title: "Kajari Palu lantik Kasi Pidum Baru"
 date: 2018-05-15
-categories: 
-  - "berita-kejaksaan"
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "sertijab"
 coverImage: "KOTA-4_ATAS-3.jpeg"
+summary: "Kejaksaan Negeri Palu melantik Kepala Seksi Pidana Umum (Kasi Pidum) yang baru menggantikan pejabat lama."
 ---
 
 **PALU –** Kepala Kejaksaan (Kajari) Negeri Palu, Subeno memimpin pelantikan dan serah terima jabatan (sertijab) pejabat lama Kepala Seksi (Kasi) Pidana Umum (Pidum) Surianto, kepada Tri Muriani MT. Lagandja, di Aula Kantor Kejari Palu, Senin (14/05).

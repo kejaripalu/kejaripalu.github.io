@@ -1,11 +1,13 @@
 ---
 title: "Kajari Palu tinjau Kesiapan Logistik Pemilu 2024"
 date: 2024-02-01
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
-  - "pemilu2024"
+  - "Kejari Palu"
+  - "Pemilu 2024"
 coverImage: "fdssc.jpg"
+summary: "Kepala Kejaksaan Negeri Palu didampingi oleh Kepala Sub Bagian Pembinaan, Kepala Seksi Intelijen dan Kepala Seksi Perdata dan Tata Usaha Negara melakukan kunjungan ke Gudang Logistik Pemilu Kota Palu di GOR Siranindi Kota Palu(01/02/2024)."
 ---
 
 **Palu -** Kepala Kejaksaan Negeri Palu didampingi oleh Kepala Sub Bagian Pembinaan, Kepala Seksi Intelijen dan Kepala Seksi Perdata dan Tata Usaha Negara melakukan kunjungan ke Gudang Logistik Pemilu Kota Palu di GOR Siranindi Kota Palu(01/02/2024). Ketua Komisi Pemilihan Umum Kota Palu menerima langsung kunjungan Kepala Kejaksaan Negeri Palu dan jajaran.

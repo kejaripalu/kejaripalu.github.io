@@ -1,11 +1,10 @@
 ---
 title: "Terpidana Korupsi Gedung Wanita Kembalikan Kerugian Negara"
 date: 2019-05-20
-categories: 
-  - "berita-kejaksaan"
-  - "kejari-palu"
-  - "media-massa"
+kategori: 
+  - "Berita"
 coverImage: "etuem7rjwygdf6i3lzb9.jpg"
+summary: "Terpidana korupsi, Jaury Oktavianus Sakkung, mengembalikan kerugian negara senilai Rp 694.968 juta kepada Kejaksaan Negeri Palu, Rabu (15/5)."
 ---
 
 **Palu -** Terpidana korupsi, Jaury Oktavianus Sakkung, mengembalikan kerugian negara senilai Rp 694.968 juta kepada Kejaksaan Negeri Palu, Rabu (15/5).

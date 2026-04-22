@@ -1,11 +1,12 @@
 ---
 title: "Kepala Kejaksaan Negeri Palu menerima kunjungan Kepala Stasiun TVRI Sulawesi Tengah"
 date: 2024-07-10
-categories: 
-  - "kejari-palu"
+kategori: 
+  - "Berita"
 tags: 
   - "kejaripalu"
 coverImage: "Screenshot-12.png"
+summary: "Kepala Kejaksaan Negeri Palu menerima kunjungan Kepala Stasiun TVRI Sulawesi Tengah Haris Zakaria, S.E.,M.Si. di kantor Kejaksaan Negeri Palu. Pertemuan antara Kepala Kejaksaan Negeri Palu dan Kepala Stasiun TVRI Sulawesi Tengah membahas langkah-langkah strategis dalam memperkuat sinergi antara lembaga penegak hukum dan media penyiaran publik."
 ---
 
 Kepala Kejaksaan Negeri Palu menerima kunjungan Kepala Stasiun TVRI Sulawesi Tengah Haris Zakaria, S.E.,M.Si. di kantor Kejaksaan Negeri Palu. Pertemuan antara Kepala Kejaksaan Negeri Palu dan Kepala Stasiun TVRI Sulawesi Tengah membahas langkah-langkah strategis dalam memperkuat sinergi antara lembaga penegak hukum dan media penyiaran publik.

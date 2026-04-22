@@ -1,12 +1,13 @@
 ---
 title: "Kejari Palu selamatkan uang negara Rp. 1,1 miliar"
 date: 2018-04-15
-categories: 
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "eksekusi"
   - "korupsi"
 coverImage: "kasipidsus.jpg"
+summary: "Kejaksaan Negeri (Kejari) Palu berhasil menyelamatkan keuangan negara hasil korupsi, sekitar Rp1,1 miliar, periode bulan Januari-April 2018. Kesemuanya berasal dari lima orang terpidana, yang merupakan uang pengganti dan denda, masing-masing dari Ryanto Layandi berjumlah Rp629 juta, HB Paliudju Rp236 juta dan dari Nelsvini Kusmara sebesar Rp50 juta."
 ---
 
 **PALU –** Kejaksaan Negeri (Kejari) Palu berhasil menyelamatkan keuangan negara hasil korupsi, sekitar Rp1,1 miliar, periode bulan Januari-April 2018. Kesemuanya berasal dari lima orang terpidana, yang merupakan uang pengganti dan denda, masing-masing dari Ryanto Layandi berjumlah Rp629 juta, HB Paliudju Rp236 juta dan dari Nelsvini Kusmara sebesar Rp50 juta.

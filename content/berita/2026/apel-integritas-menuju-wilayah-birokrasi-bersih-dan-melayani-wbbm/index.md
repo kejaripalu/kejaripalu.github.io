@@ -2,7 +2,7 @@
 title: "Apel Integritas Menuju Wilayah Birokrasi Bersih dan Melayani (WBBM)"
 date: 2026-02-12
 kategori: 
-  - "Kejari Palu"
+  - "Berita"
 tags: 
   - "kejaripalu"
 image: "images/WhatsApp-Image-2026-02-18-at-18.10.06.jpeg"

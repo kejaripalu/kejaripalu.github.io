@@ -1,11 +1,12 @@
 ---
 title: "Kejari Palu Terima 3 TSK dan Babuk Dari Ditnarkoba Mabes Polri"
 date: 2017-05-04
-categories: 
-  - "media-massa"
+kategori: 
+  - "Berita"
 tags: 
   - "narkoba"
 coverImage: "IMG.jpg"
+summary: "Setelah dinyatakan lengkap (P21) berkas perkara kepemilikan Narkotika jenis Shabu, ketiga tersangka yakni AZ, Ofd dan Mnd, dimana dua antaranya adalah merupakan mantan anggota Polri (PTDH Polri), oleh tim Bareskrim Direktorat Tindak Pidana Narkoba Mabes Polri melalui Kejaksaan Agung RI, menyerahkan tersangka beserta barang bukti kepada Jaksa Penuntut Umum (JPU) Kejaksaan Negeri Palu."
 ---
 
 **SULAWESION.COM, PALU** Setelah dinyatakan lengkap (P21) berkas perkara kepemilikan Narkotika jenis Shabu, ketiga tersangka yakni AZ, Ofd dan Mnd, dimana dua antaranya adalah merupakan mantan anggota Polri (PTDH Polri), oleh tim Bareskrim Direktorat Tindak Pidana Narkoba Mabes Polri melalui Kejaksaan Agung RI, menyerahkan tersangka beserta barang bukti kepada Jaksa Penuntut Umum (JPU) Kejaksaan Negeri Palu.
